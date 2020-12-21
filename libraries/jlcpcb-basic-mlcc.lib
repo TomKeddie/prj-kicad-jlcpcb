@@ -10,10 +10,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.pdf" 0 0 50 V I C CNN
 F4 "C52923" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -26,10 +26,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B152KB5NNNC_C23967.pdf" 0 0 50 V I C CNN
 F4 "C23967" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -42,10 +42,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A106MQ5NUNC_C15525.pdf" 0 0 50 V I C CNN
 F4 "C15525" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -58,10 +58,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B151K500NT_C1527.pdf" 0 0 50 V I C CNN
 F4 "C1527" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -74,10 +74,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R0C500NT_C1558.pdf" 0 0 50 V I C CNN
 F4 "C1558" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -90,10 +90,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R7C500NT_C1561.pdf" 0 0 50 V I C CNN
 F4 "C1561" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -106,10 +106,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG200J500NT_C1554.pdf" 0 0 50 V I C CNN
 F4 "C1554" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -122,10 +122,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B221K500NT_C1530.pdf" 0 0 50 V I C CNN
 F4 "C1530" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -138,10 +138,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B223K500NT_C1532.pdf" 0 0 50 V I C CNN
 F4 "C1532" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -154,10 +154,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG270J500NTN_C1557.pdf" 0 0 50 V I C CNN
 F4 "C1557" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -170,10 +170,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B332KB5NNNC_C26404.pdf" 0 0 50 V I C CNN
 F4 "C26404" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -186,10 +186,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG3R3C500NT_C1565.pdf" 0 0 50 V I C CNN
 F4 "C1565" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -202,10 +202,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG300J500NT_C1570.pdf" 0 0 50 V I C CNN
 F4 "C1570" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -218,10 +218,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C331JB5NNNC_C13533.pdf" 0 0 50 V I C CNN
 F4 "C13533" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -234,10 +234,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402F333M500NT_C1585.pdf" 0 0 50 V I C CNN
 F4 "C1585" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -250,10 +250,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B472K500NT_C1538.pdf" 0 0 50 V I C CNN
 F4 "C1538" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -266,10 +266,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG4R7C500NT_C1569.pdf" 0 0 50 V I C CNN
 F4 "C1569" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -282,10 +282,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG470J500NT_C1567.pdf" 0 0 50 V I C CNN
 F4 "C1567" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -298,10 +298,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG560J500NT_C1572.pdf" 0 0 50 V I C CNN
 F4 "C1572" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -314,10 +314,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG6R0C500NT_C30274.pdf" 0 0 50 V I C CNN
 F4 "C30274" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -330,10 +330,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B682K500NT_C1542.pdf" 0 0 50 V I C CNN
 F4 "C1542" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -346,10 +346,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG6R8C500NT_C1576.pdf" 0 0 50 V I C CNN
 F4 "C1576" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -362,10 +362,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C680JB5NNNC_C14441.pdf" 0 0 50 V I C CNN
 F4 "C14441" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -378,10 +378,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf" 0 0 50 V I C CNN
 F4 "C1523" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -394,10 +394,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf" 0 0 50 V I C CNN
 F4 "C1525" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -410,10 +410,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B222K500NT_C1531.pdf" 0 0 50 V I C CNN
 F4 "C1531" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -426,10 +426,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B471K500NT_C1537.pdf" 0 0 50 V I C CNN
 F4 "C1537" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -442,10 +442,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf" 0 0 50 V I C CNN
 F4 "C1546" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -458,10 +458,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG120J500NT_C1547.pdf" 0 0 50 V I C CNN
 F4 "C1547" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -474,10 +474,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG150J500NT_C1548.pdf" 0 0 50 V I C CNN
 F4 "C1548" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -490,10 +490,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG180J500NT_C1549.pdf" 0 0 50 V I C CNN
 F4 "C1549" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -506,10 +506,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG1R5C500NT_C1552.pdf" 0 0 50 V I C CNN
 F4 "C1552" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -522,10 +522,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf" 0 0 50 V I C CNN
 F4 "C1555" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -538,10 +538,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R2C500NT_C1559.pdf" 0 0 50 V I C CNN
 F4 "C1559" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -554,10 +554,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG330J500NT_C1562.pdf" 0 0 50 V I C CNN
 F4 "C1562" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -570,10 +570,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B103KB5NNNC_C15195.pdf" 0 0 50 V I C CNN
 F4 "C15195" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -586,10 +586,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B224KO5NNNC_C16772.pdf" 0 0 50 V I C CNN
 F4 "C16772" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -602,10 +602,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A475MP5NRNC_C23733.pdf" 0 0 50 V I C CNN
 F4 "C23733" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -618,10 +618,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG1R0C500NT_C1550.pdf" 0 0 50 V I C CNN
 F4 "C1550" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -634,10 +634,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C100JB5NNNC_C32949.pdf" 0 0 50 V I C CNN
 F4 "C32949" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -650,10 +650,10 @@ F2 "C_0402_1005Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A474KP5NNNC_C47339.pdf" 0 0 50 V I C CNN
 F4 "C47339" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -666,10 +666,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B122KB8NNNC_C30615.pdf" 0 0 50 V I C CNN
 F4 "C30615" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -682,10 +682,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/1812121125_Guangdong-Fenghua-Advanced-Tech-0603B123K500NT_C1593.pdf" 0 0 50 V I C CNN
 F4 "C1593" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -698,10 +698,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B153K500NT_C1596.pdf" 0 0 50 V I C CNN
 F4 "C1596" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -714,10 +714,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B272K500NT_C1609.pdf" 0 0 50 V I C CNN
 F4 "C1609" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -730,10 +730,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603F273M500NT_C1700.pdf" 0 0 50 V I C CNN
 F4 "C1700" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -746,10 +746,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B822KB8NNNC_C27920.pdf" 0 0 50 V I C CNN
 F4 "C27920" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -762,10 +762,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG8R2C500NT_C1685.pdf" 0 0 50 V I C CNN
 F4 "C1685" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -778,10 +778,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG820J500NT_C1683.pdf" 0 0 50 V I C CNN
 F4 "C1683" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -794,10 +794,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf" 0 0 50 V I C CNN
 F4 "C1588" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -810,10 +810,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B151K500NT_C1594.pdf" 0 0 50 V I C CNN
 F4 "C1594" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -826,10 +826,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B152K500NT_C1595.pdf" 0 0 50 V I C CNN
 F4 "C1595" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -842,10 +842,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B221KB8NNNC_C1603.pdf" 0 0 50 V I C CNN
 F4 "C1603" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -858,10 +858,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B222K500NT_C1604.pdf" 0 0 50 V I C CNN
 F4 "C1604" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -874,10 +874,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B223KB8NNNC_C21122.pdf" 0 0 50 V I C CNN
 F4 "C21122" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -890,10 +890,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf" 0 0 50 V I C CNN
 F4 "C1613" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -906,10 +906,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B471K500NT_C1620.pdf" 0 0 50 V I C CNN
 F4 "C1620" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -922,10 +922,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1622.pdf" 0 0 50 V I C CNN
 F4 "C1622" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -938,10 +938,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B474KA8NNNC_C1623.pdf" 0 0 50 V I C CNN
 F4 "C1623" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -954,10 +954,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B681K500NT_C1630.pdf" 0 0 50 V I C CNN
 F4 "C1630" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -970,10 +970,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.pdf" 0 0 50 V I C CNN
 F4 "C1631" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -986,10 +986,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C100JB8NNNC_C1634.pdf" 0 0 50 V I C CNN
 F4 "C1634" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1002,10 +1002,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG1R5C500NT_C1639.pdf" 0 0 50 V I C CNN
 F4 "C1639" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1018,10 +1018,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C180JB8NNNC_C1647.pdf" 0 0 50 V I C CNN
 F4 "C1647" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1034,10 +1034,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C200JB8NNNC_C1648.pdf" 0 0 50 V I C CNN
 F4 "C1648" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1050,10 +1050,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C220JB8NNNC_C1653.pdf" 0 0 50 V I C CNN
 F4 "C1653" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1066,10 +1066,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C270JB8NNNC_C1656.pdf" 0 0 50 V I C CNN
 F4 "C1656" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1082,10 +1082,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C330JB8NNNC_C1663.pdf" 0 0 50 V I C CNN
 F4 "C1663" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1098,10 +1098,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C331JB8NNNC_C1664.pdf" 0 0 50 V I C CNN
 F4 "C1664" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1114,10 +1114,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG4R7C500NT_C1669.pdf" 0 0 50 V I C CNN
 F4 "C1669" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1130,10 +1130,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C470JB8NNNC_C1671.pdf" 0 0 50 V I C CNN
 F4 "C1671" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1146,10 +1146,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG6R8C500NT_C1679.pdf" 0 0 50 V I C CNN
 F4 "C1679" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1162,10 +1162,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/YAGEO-CC0603KRX7R9BB104_C14663.pdf" 0 0 50 V I C CNN
 F4 "C14663" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1178,10 +1178,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf" 0 0 50 V I C CNN
 F4 "C1644" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1194,10 +1194,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf" 0 0 50 V I C CNN
 F4 "C14858" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1210,10 +1210,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf" 0 0 50 V I C CNN
 F4 "C15849" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1226,10 +1226,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C2R7CB8NNNC_C16149.pdf" 0 0 50 V I C CNN
 F4 "C16149" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1242,10 +1242,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10A475KO8NNNC_C19666.pdf" 0 0 50 V I C CNN
 F4 "C19666" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1258,10 +1258,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf" 0 0 50 V I C CNN
 F4 "C19702" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1274,10 +1274,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B333KB8NNNC_C21117.pdf" 0 0 50 V I C CNN
 F4 "C21117" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1290,10 +1290,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.pdf" 0 0 50 V I C CNN
 F4 "C21120" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1306,10 +1306,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C020CB8NNNC_C21895.pdf" 0 0 50 V I C CNN
 F4 "C21895" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1322,10 +1322,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" 0 0 50 V I C CNN
 F4 "C22397" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1338,10 +1338,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10A225KO8NNNC_C23630.pdf" 0 0 50 V I C CNN
 F4 "C23630" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1354,10 +1354,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C010CB8NNNC_C23969.pdf" 0 0 50 V I C CNN
 F4 "C23969" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1370,10 +1370,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C680JB8NNNC_C28262.pdf" 0 0 50 V I C CNN
 F4 "C28262" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1386,10 +1386,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B683KB8NNNC_C31658.pdf" 0 0 50 V I C CNN
 F4 "C31658" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1402,10 +1402,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG6R0C500NT_C37474.pdf" 0 0 50 V I C CNN
 F4 "C37474" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1418,10 +1418,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf" 0 0 50 V I C CNN
 F4 "C38523" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1434,10 +1434,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C560JB8NNNC_C39148.pdf" 0 0 50 V I C CNN
 F4 "C39148" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1450,10 +1450,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603CG3R0C500NT_C46219.pdf" 0 0 50 V I C CNN
 F4 "C46219" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1466,10 +1466,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B472K500NT_C53987.pdf" 0 0 50 V I C CNN
 F4 "C53987" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1482,10 +1482,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B103K500NT_C57112.pdf" 0 0 50 V I C CNN
 F4 "C57112" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1498,10 +1498,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10A226MQ8NRNC_C59461.pdf" 0 0 50 V I C CNN
 F4 "C59461" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1514,10 +1514,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B201K500NT_C1600.pdf" 0 0 50 V I C CNN
 F4 "C1600" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1530,10 +1530,10 @@ F2 "C_0603_1608Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0603B334K250NT_C1615.pdf" 0 0 50 V I C CNN
 F4 "C1615" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1546,10 +1546,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C010CBANNNC_C14971.pdf" 0 0 50 V I C CNN
 F4 "C14971" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1562,10 +1562,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.pdf" 0 0 50 V I C CNN
 F4 "C1710" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1578,10 +1578,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B223KBANNNC_C1729.pdf" 0 0 50 V I C CNN
 F4 "C1729" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1594,10 +1594,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B333K500NT_C1739.pdf" 0 0 50 V I C CNN
 F4 "C1739" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1610,10 +1610,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B334K500NT_C1740.pdf" 0 0 50 V I C CNN
 F4 "C1740" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1626,10 +1626,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B471K500NT_C1743.pdf" 0 0 50 V I C CNN
 F4 "C1743" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1642,10 +1642,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B472K500NT_C1744.pdf" 0 0 50 V I C CNN
 F4 "C1744" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1658,10 +1658,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A475KAQNNNE_C1779.pdf" 0 0 50 V I C CNN
 F4 "C1779" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1674,10 +1674,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C100JBANNNC_C1785.pdf" 0 0 50 V I C CNN
 F4 "C1785" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1690,10 +1690,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C101JBANNNC_C1790.pdf" 0 0 50 V I C CNN
 F4 "C1790" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1706,10 +1706,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C150JBANNNC_C1794.pdf" 0 0 50 V I C CNN
 F4 "C1794" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1722,10 +1722,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG180J500NT_C1797.pdf" 0 0 50 V I C CNN
 F4 "C1797" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1738,10 +1738,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C200JBANNNC_C1798.pdf" 0 0 50 V I C CNN
 F4 "C1798" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1754,10 +1754,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C220JBANNNC_C1804.pdf" 0 0 50 V I C CNN
 F4 "C1804" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1770,10 +1770,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C300JBANNNC_C1809.pdf" 0 0 50 V I C CNN
 F4 "C1809" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1786,10 +1786,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C330JBANNNC_C1814.pdf" 0 0 50 V I C CNN
 F4 "C1814" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1802,10 +1802,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B224KBFNNNE_C5378.pdf" 0 0 50 V I C CNN
 F4 "C5378" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1818,10 +1818,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C270JBANNNC_C8031.pdf" 0 0 50 V I C CNN
 F4 "C8031" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1834,10 +1834,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B474KBFNNNE_C13967.pdf" 0 0 50 V I C CNN
 F4 "C13967" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1850,10 +1850,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C470JBANNNC_C14857.pdf" 0 0 50 V I C CNN
 F4 "C14857" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1866,10 +1866,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf" 0 0 50 V I C CNN
 F4 "C15850" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1882,10 +1882,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21C222JBFNNNE_C28260.pdf" 0 0 50 V I C CNN
 F4 "C28260" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1898,10 +1898,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf" 0 0 50 V I C CNN
 F4 "C28323" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1914,10 +1914,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf" 0 0 50 V I C CNN
 F4 "C45783" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1930,10 +1930,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805F225M500NT_C49217.pdf" 0 0 50 V I C CNN
 F4 "C49217" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1946,10 +1946,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/YAGEO-CC0805KRX7R9BB104_C49678.pdf" 0 0 50 V I C CNN
 F4 "C49678" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1962,10 +1962,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B473KBCNNNC_C53134.pdf" 0 0 50 V I C CNN
 F4 "C53134" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1978,10 +1978,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B221KBANNNC_C53172.pdf" 0 0 50 V I C CNN
 F4 "C53172" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -1994,10 +1994,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B332KBANNNC_C53175.pdf" 0 0 50 V I C CNN
 F4 "C53175" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2010,10 +2010,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG2R0C500NT_C1800.pdf" 0 0 50 V I C CNN
 F4 "C1800" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2026,10 +2026,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG6R0C500N_C67560.pdf" 0 0 50 V I C CNN
 F4 "C67560" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2042,10 +2042,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG120J500NT_C1792.pdf" 0 0 50 V I C CNN
 F4 "C1792" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2058,10 +2058,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG560J500NT_C1828.pdf" 0 0 50 V I C CNN
 F4 "C1828" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2074,10 +2074,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805CG680J500NT_C1834.pdf" 0 0 50 V I C CNN
 F4 "C1834" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2090,10 +2090,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B151K500NT_C1716.pdf" 0 0 50 V I C CNN
 F4 "C1716" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2106,10 +2106,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B201K500NT_C1724.pdf" 0 0 50 V I C CNN
 F4 "C1724" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2122,10 +2122,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B331KBANNNC_C51207.pdf" 0 0 50 V I C CNN
 F4 "C51207" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2138,10 +2138,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B681KBANNNC_C53150.pdf" 0 0 50 V I C CNN
 F4 "C53150" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2154,10 +2154,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B152K500NT_C1717.pdf" 0 0 50 V I C CNN
 F4 "C1717" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2170,10 +2170,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B682K500NT_C1755.pdf" 0 0 50 V I C CNN
 F4 "C1755" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2186,10 +2186,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0805B683K500NT_C1756.pdf" 0 0 50 V I C CNN
 F4 "C1756" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2202,10 +2202,10 @@ F2 "C_0805_2012Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21B102KBCNNNC_C46653.pdf" 0 0 50 V I C CNN
 F4 "C46653" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2218,10 +2218,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-1206B471K500NT_C1868.pdf" 0 0 50 V I C CNN
 F4 "C1868" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2234,10 +2234,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-1206B103K500NT_C1846.pdf" 0 0 50 V I C CNN
 F4 "C1846" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2250,10 +2250,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31B104KBCNNNC_C24497.pdf" 0 0 50 V I C CNN
 F4 "C24497" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2266,10 +2266,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31B105KBHNNNE_C1848.pdf" 0 0 50 V I C CNN
 F4 "C1848" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2282,10 +2282,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-1206B221K500NT_C1854.pdf" 0 0 50 V I C CNN
 F4 "C1854" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2298,10 +2298,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-1206B224K500NT_C1857.pdf" 0 0 50 V I C CNN
 F4 "C1857" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2314,10 +2314,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/1812121157_Guangdong-Fenghua-Advanced-Tech-1206B474K500NT_C1871.pdf" 0 0 50 V I C CNN
 F4 "C1871" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2330,10 +2330,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf" 0 0 50 V I C CNN
 F4 "C13585" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2346,10 +2346,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf" 0 0 50 V I C CNN
 F4 "C29823" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2362,10 +2362,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf" 0 0 50 V I C CNN
 F4 "C35216" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2378,10 +2378,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31B225KBHNNNE_C50254.pdf" 0 0 50 V I C CNN
 F4 "C50254" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2394,10 +2394,10 @@ F2 "C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf" 0 0 50 V I C CNN
 F4 "C96123" 0 0 50 V I C CNN "LCSC"
 DRAW
-P 2 0 1 20 -80 -30 80 -30 N
-P 2 0 1 20 -80 30 80 30 N
-X ~ 1 0 150 110 D 50 50 1 1 P
-X ~ 2 0 -150 110 U 50 50 1 1 P
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
