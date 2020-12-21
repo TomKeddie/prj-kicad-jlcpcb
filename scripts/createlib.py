@@ -15,7 +15,7 @@ lib_template_resistor = '''
 #
 # {0}
 #
-DEF {0} R 0 40 Y Y 1 F N
+DEF {0} R 0 40 N N 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "{1}" 0 0 50 V V C CNN
 F2 "{2}" -70 0 50 V I C CNN
@@ -32,7 +32,7 @@ lib_template_capacitor = '''
 #
 # {0}
 #
-DEF {0} C 0 10 N Y 1 F N
+DEF {0} C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "{1}" 25 -100 50 H V L CNN
 F2 "{2}" 38 -150 50 H I C CNN
