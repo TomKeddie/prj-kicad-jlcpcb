@@ -1,0 +1,1248 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_0402_0R
+D 0Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF0000TCE_C17168.pdf
+$ENDCMP
+$CMP R_0402_100R
+D 100Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1000TCE_C25076.pdf
+$ENDCMP
+$CMP R_0402_22R
+D 22Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF220JTCE_C25092.pdf
+$ENDCMP
+$CMP R_0402_470R
+D 470Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4700TCE_C25117.pdf
+$ENDCMP
+$CMP R_0402_49.9R
+D 49.9Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf
+$ENDCMP
+$CMP R_0402_100k
+D 100KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1003TCE_C25741.pdf
+$ENDCMP
+$CMP R_0402_10k
+D 10KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1002TCE_C25744.pdf
+$ENDCMP
+$CMP R_0402_1k
+D 1KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1001TCE_C11702.pdf
+$ENDCMP
+$CMP R_0402_47k
+D 47KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4702TCE_C25792.pdf
+$ENDCMP
+$CMP R_0402_56k
+D 56KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5602TCE_C25796.pdf
+$ENDCMP
+$CMP R_0402_1.5k
+D 1.5KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1501TCE_C25867.pdf
+$ENDCMP
+$CMP R_0402_2.2k
+D 2.2KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2201TCE_C25879.pdf
+$ENDCMP
+$CMP R_0402_3.3k
+D 3.3KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3301TCE_C25890.pdf
+$ENDCMP
+$CMP R_0402_4.7k
+D 4.7KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4701TCE_C25900.pdf
+$ENDCMP
+$CMP R_0402_1M
+D 1MOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1004TCE_C26083.pdf
+$ENDCMP
+$CMP R_0402_470k
+D 470KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4703TCE_C25790.pdf
+$ENDCMP
+$CMP R_0402_1.2k
+D 1.2KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1201TCE_C25862.pdf
+$ENDCMP
+$CMP R_0402_10M
+D 10MOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1005TCE_C26082.pdf
+$ENDCMP
+$CMP R_0402_10R
+D 10Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF100JTCE_C25077.pdf
+$ENDCMP
+$CMP R_0402_120k
+D 120KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1203TCE_C25750.pdf
+$ENDCMP
+$CMP R_0402_120R
+D 120Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1200TCE_C25079.pdf
+$ENDCMP
+$CMP R_0402_12k
+D 12KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1202TCE_C25752.pdf
+$ENDCMP
+$CMP R_0402_150k
+D 150KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1503TCE_C25755.pdf
+$ENDCMP
+$CMP R_0402_150R
+D 150Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1500TCE_C25082.pdf
+$ENDCMP
+$CMP R_0402_15k
+D 15KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1502TCE_C25756.pdf
+$ENDCMP
+$CMP R_0402_18k
+D 18KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1802TCE_C25762.pdf
+$ENDCMP
+$CMP R_0402_1R
+D 1Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF100KTCE_C25086.pdf
+$ENDCMP
+$CMP R_0402_2.4k
+D 2.4KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2401TCE_C25882.pdf
+$ENDCMP
+$CMP R_0402_200k
+D 200KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2003TCE_C25764.pdf
+$ENDCMP
+$CMP R_0402_200R
+D 200Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2000TCE_C25087.pdf
+$ENDCMP
+$CMP R_0402_20k
+D 20KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2002TCE_C25765.pdf
+$ENDCMP
+$CMP R_0402_220k
+D 220KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2203TCE_C25767.pdf
+$ENDCMP
+$CMP R_0402_220R
+D 220Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2200TCE_C25091.pdf
+$ENDCMP
+$CMP R_0402_22k
+D 22KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2202TCE_C25768.pdf
+$ENDCMP
+$CMP R_0402_24k
+D 24KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2402TCE_C25769.pdf
+$ENDCMP
+$CMP R_0402_27k
+D 27KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2702TCE_C25771.pdf
+$ENDCMP
+$CMP R_0402_3.9k
+D 3.9KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3901TCE_C51721.pdf
+$ENDCMP
+$CMP R_0402_300k
+D 300KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3003TCE_C25774.pdf
+$ENDCMP
+$CMP R_0402_300R
+D 300Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3000TCE_C25102.pdf
+$ENDCMP
+$CMP R_0402_330k
+D 330KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3303TCE_C25778.pdf
+$ENDCMP
+$CMP R_0402_330R
+D 330Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3300TCE_C25104.pdf
+$ENDCMP
+$CMP R_0402_33k
+D 33KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3302TCE_C25779.pdf
+$ENDCMP
+$CMP R_0402_33R
+D 33Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF330JTCE_C25105.pdf
+$ENDCMP
+$CMP R_0402_39k
+D 39KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF3902TCE_C25783.pdf
+$ENDCMP
+$CMP R_0402_47R
+D 47Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF470JTCE_C25118.pdf
+$ENDCMP
+$CMP R_0402_49.9k
+D 49.9KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4992TCE_C25897.pdf
+$ENDCMP
+$CMP R_0402_5.1k
+D 5.1KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5101TCE_C25905.pdf
+$ENDCMP
+$CMP R_0402_5.6k
+D 5.6KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5601TCE_C25908.pdf
+$ENDCMP
+$CMP R_0402_510k
+D 510KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5103TCE_C11616.pdf
+$ENDCMP
+$CMP R_0402_510R
+D 510Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5100TCE_C25123.pdf
+$ENDCMP
+$CMP R_0402_51k
+D 51KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF5102TCE_C25794.pdf
+$ENDCMP
+$CMP R_0402_51R
+D 51Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF510JTCE_C25125.pdf
+$ENDCMP
+$CMP R_0402_6.8k
+D 6.8KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF6801TCE_C25917.pdf
+$ENDCMP
+$CMP R_0402_680R
+D 680Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF6800TCE_C25130.pdf
+$ENDCMP
+$CMP R_0402_68k
+D 68KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF6802TCE_C36871.pdf
+$ENDCMP
+$CMP R_0402_7.5k
+D 7.5KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF7501TCE_C25918.pdf
+$ENDCMP
+$CMP R_0402_75k
+D 75KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF7502TCE_C25798.pdf
+$ENDCMP
+$CMP R_0402_75R
+D 75Ohms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF750JTCE_C25133.pdf
+$ENDCMP
+$CMP R_0402_8.2k
+D 8.2KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF8201TCE_C25924.pdf
+$ENDCMP
+$CMP R_0402_2k
+D 2KOhms ±1% 1/16W 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF2001TCE_C4109.pdf
+$ENDCMP
+$CMP R_0603_1.5M
+D 1.5MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1504T5E_C4172.pdf
+$ENDCMP
+$CMP R_0603_20k
+D 20KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2002T5E_C4184.pdf
+$ENDCMP
+$CMP R_0603_33k
+D 33KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3302T5E_C4216.pdf
+$ENDCMP
+$CMP R_0603_75R
+D 75Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF750JT5E_C4275.pdf
+$ENDCMP
+$CMP R_0603_10M
+D 10MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1005T5E_C7250.pdf
+$ENDCMP
+$CMP R_0603_200R
+D 200Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2000T5E_C8218.pdf
+$ENDCMP
+$CMP R_0603_6.2k
+D 6.2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6201T5E_C4260.pdf
+$ENDCMP
+$CMP R_0603_40.2k
+D 40.2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4022T5E_C12447.pdf
+$ENDCMP
+$CMP R_0603_5.1M
+D 5.1MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5104T5E_C13320.pdf
+$ENDCMP
+$CMP R_0603_1k
+D 1KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1001T5E_C21190.pdf
+$ENDCMP
+$CMP R_0603_1.2k
+D 1.2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1201T5E_C22765.pdf
+$ENDCMP
+$CMP R_0603_1.2M
+D 1.2MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1204T5E_C22766.pdf
+$ENDCMP
+$CMP R_0603_100R
+D 100Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1000T5E_C22775.pdf
+$ENDCMP
+$CMP R_0603_120R
+D 120Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1200T5E_C22787.pdf
+$ENDCMP
+$CMP R_0603_12k
+D 12KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1202T5E_C22790.pdf
+$ENDCMP
+$CMP R_0603_13k
+D 13KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1302T5E_C22797.pdf
+$ENDCMP
+$CMP R_0603_150k
+D 150KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1503T5E_C22807.pdf
+$ENDCMP
+$CMP R_0603_150R
+D 150Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1500T5E_C22808.pdf
+$ENDCMP
+$CMP R_0603_15k
+D 15KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1502T5E_C22809.pdf
+$ENDCMP
+$CMP R_0603_15R
+D 15Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF150JT5E_C22810.pdf
+$ENDCMP
+$CMP R_0603_16k
+D 16KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1602T5E_C22818.pdf
+$ENDCMP
+$CMP R_0603_180k
+D 180KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1803T5E_C22827.pdf
+$ENDCMP
+$CMP R_0603_180R
+D 180Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1800T5E_C22828.pdf
+$ENDCMP
+$CMP R_0603_1.5k
+D 1.5KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1501T5E_C22843.pdf
+$ENDCMP
+$CMP R_0603_1.8k
+D 1.8KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1801T5E_C4177.pdf
+$ENDCMP
+$CMP R_0603_10R
+D 10Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF100JT5E_C22859.pdf
+$ENDCMP
+$CMP R_0603_1M
+D 1MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1004T5E_C22935.pdf
+$ENDCMP
+$CMP R_0603_1R
+D 1Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF100KT5E_C22936.pdf
+$ENDCMP
+$CMP R_0603_2.2k
+D 2.2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2201T5E_C4190.pdf
+$ENDCMP
+$CMP R_0603_2.2M
+D 2.2MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2204T5E_C22938.pdf
+$ENDCMP
+$CMP R_0603_2.2R
+D 2.2Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF220KT5E_C22939.pdf
+$ENDCMP
+$CMP R_0603_2.4k
+D 2.4KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2401T5E_C22940.pdf
+$ENDCMP
+$CMP R_0603_2.7k
+D 2.7KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2701T5E_C13167.pdf
+$ENDCMP
+$CMP R_0603_20R
+D 20Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF200JT5E_C22950.pdf
+$ENDCMP
+$CMP R_0603_220k
+D 220KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2203T5E_C22961.pdf
+$ENDCMP
+$CMP R_0603_220R
+D 220Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2200T5E_C22962.pdf
+$ENDCMP
+$CMP R_0603_270k
+D 270KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2703T5E_C22965.pdf
+$ENDCMP
+$CMP R_0603_270R
+D 270Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2700T5E_C22966.pdf
+$ENDCMP
+$CMP R_0603_27k
+D 27KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2702T5E_C22967.pdf
+$ENDCMP
+$CMP R_0603_2k
+D 2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2001T5E_C22975.pdf
+$ENDCMP
+$CMP R_0603_2M
+D 2MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2004T5E_C22976.pdf
+$ENDCMP
+$CMP R_0603_2R
+D 2Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF200KT5E_C22977.pdf
+$ENDCMP
+$CMP R_0603_3.3k
+D 3.3KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3301T5E_C22978.pdf
+$ENDCMP
+$CMP R_0603_3.6k
+D 3.6KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3601T5E_C22980.pdf
+$ENDCMP
+$CMP R_0603_3.9k
+D 3.9KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3901T5E_C23018.pdf
+$ENDCMP
+$CMP R_0603_300k
+D 300KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3003T5E_C23024.pdf
+$ENDCMP
+$CMP R_0603_300R
+D 300Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3000T5E_C23025.pdf
+$ENDCMP
+$CMP R_0603_4.99k
+D 4.99KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4991T5E_C23046.pdf
+$ENDCMP
+$CMP R_0603_0R
+D 0Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF0000T5E_C21189.pdf
+$ENDCMP
+$CMP R_0603_330k
+D 330KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3303T5E_C23137.pdf
+$ENDCMP
+$CMP R_0603_330R
+D 330Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3300T5E_C23138.pdf
+$ENDCMP
+$CMP R_0603_33R
+D 33Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF330JT5E_C23140.pdf
+$ENDCMP
+$CMP R_0603_36k
+D 36KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3602T5E_C23147.pdf
+$ENDCMP
+$CMP R_0603_390k
+D 390KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3903T5E_C23150.pdf
+$ENDCMP
+$CMP R_0603_390R
+D 390Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3900T5E_C23151.pdf
+$ENDCMP
+$CMP R_0603_39k
+D 39KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3902T5E_C23153.pdf
+$ENDCMP
+$CMP R_0603_3k
+D 3KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3001T5E_C4211.pdf
+$ENDCMP
+$CMP R_0603_3M
+D 3MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3004T5E_C23156.pdf
+$ENDCMP
+$CMP R_0603_4.3k
+D 4.3KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4301T5E_C23159.pdf
+$ENDCMP
+$CMP R_0603_4.7k
+D 4.7KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4701T5E_C23162.pdf
+$ENDCMP
+$CMP R_0603_4.7M
+D 4.7MOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4704T5E_C23163.pdf
+$ENDCMP
+$CMP R_0603_4.7R
+D 4.7Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF470KT5E_C23164.pdf
+$ENDCMP
+$CMP R_0603_43k
+D 43KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4302T5E_C23172.pdf
+$ENDCMP
+$CMP R_0603_470k
+D 470KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4703T5E_C23178.pdf
+$ENDCMP
+$CMP R_0603_470R
+D 470Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4700T5E_C23179.pdf
+$ENDCMP
+$CMP R_0603_47R
+D 47Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF470JT5E_C23182.pdf
+$ENDCMP
+$CMP R_0603_49.9k
+D 49.9KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4992T5E_C23184.pdf
+$ENDCMP
+$CMP R_0603_49.9R
+D 49.9Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF499JT5E_C23185.pdf
+$ENDCMP
+$CMP R_0603_5.1k
+D 5.1KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5101T5E_C23186.pdf
+$ENDCMP
+$CMP R_0603_5.6k
+D 5.6KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5601T5E_C23189.pdf
+$ENDCMP
+$CMP R_0603_510k
+D 510KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5103T5E_C23192.pdf
+$ENDCMP
+$CMP R_0603_510R
+D 510Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5100T5E_C23193.pdf
+$ENDCMP
+$CMP R_0603_51k
+D 51KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5102T5E_C23196.pdf
+$ENDCMP
+$CMP R_0603_560k
+D 560KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5603T5E_C23203.pdf
+$ENDCMP
+$CMP R_0603_560R
+D 560Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5600T5E_C23204.pdf
+$ENDCMP
+$CMP R_0603_56k
+D 56KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF5602T5E_C23206.pdf
+$ENDCMP
+$CMP R_0603_6.8k
+D 6.8KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6801T5E_C23212.pdf
+$ENDCMP
+$CMP R_0603_62k
+D 62KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6202T5E_C23221.pdf
+$ENDCMP
+$CMP R_0603_680R
+D 680Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6800T5E_C23228.pdf
+$ENDCMP
+$CMP R_0603_68k
+D 68KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6802T5E_C23231.pdf
+$ENDCMP
+$CMP R_0603_7.5k
+D 7.5KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF7501T5E_C23234.pdf
+$ENDCMP
+$CMP R_0603_750R
+D 750Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF7500T5E_C23241.pdf
+$ENDCMP
+$CMP R_0603_75k
+D 75KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF7502T5E_C23242.pdf
+$ENDCMP
+$CMP R_0603_820R
+D 820Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF8200T5E_C23253.pdf
+$ENDCMP
+$CMP R_0603_82k
+D 82KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF8202T5E_C23254.pdf
+$ENDCMP
+$CMP R_0603_9.1k
+D 9.1KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF9101T5E_C23260.pdf
+$ENDCMP
+$CMP R_0603_91k
+D 91KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF9102T5E_C23265.pdf
+$ENDCMP
+$CMP R_0603_22R
+D 22Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF220JT5E_C23345.pdf
+$ENDCMP
+$CMP R_0603_240k
+D 240KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2403T5E_C4197.pdf
+$ENDCMP
+$CMP R_0603_240R
+D 240Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2400T5E_C23350.pdf
+$ENDCMP
+$CMP R_0603_24k
+D 24KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2402T5E_C23352.pdf
+$ENDCMP
+$CMP R_0603_27R
+D 27Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF270JT5E_C25190.pdf
+$ENDCMP
+$CMP R_0603_56R
+D 56Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF560JT5E_C25196.pdf
+$ENDCMP
+$CMP R_0603_5.1R
+D 5.1Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF510KT5E_C25197.pdf
+$ENDCMP
+$CMP R_0603_100k
+D 100KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1003T5E_C25803.pdf
+$ENDCMP
+$CMP R_0603_110k
+D 110KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1103T5E_C25805.pdf
+$ENDCMP
+$CMP R_0603_120k
+D 120KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1203T5E_C25808.pdf
+$ENDCMP
+$CMP R_0603_18k
+D 18KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1802T5E_C25810.pdf
+$ENDCMP
+$CMP R_0603_200k
+D 200KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2003T5E_C25811.pdf
+$ENDCMP
+$CMP R_0603_47k
+D 47KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4702T5E_C25819.pdf
+$ENDCMP
+$CMP R_0603_680k
+D 680KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6803T5E_C25822.pdf
+$ENDCMP
+$CMP R_0603_11k
+D 11KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1102T5E_C25950.pdf
+$ENDCMP
+$CMP R_0603_8.2k
+D 8.2KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF8201T5E_C25981.pdf
+$ENDCMP
+$CMP R_0603_68R
+D 68Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF680JT5E_C27592.pdf
+$ENDCMP
+$CMP R_0603_22k
+D 22KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF2202T5E_C31850.pdf
+$ENDCMP
+$CMP R_0603_10k
+D 10KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf
+$ENDCMP
+$CMP R_0603_51R
+D 51Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF510JT5E_C23197.pdf
+$ENDCMP
+$CMP R_0603_82R
+D 82Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF820JT5E_C23255.pdf
+$ENDCMP
+$CMP R_0603_1.1k
+D 1.1KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1101T5E_C22764.pdf
+$ENDCMP
+$CMP R_0603_110R
+D 110Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1100T5E_C22781.pdf
+$ENDCMP
+$CMP R_0603_130k
+D 130KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1303T5E_C22795.pdf
+$ENDCMP
+$CMP R_0603_130R
+D 130Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1300T5E_C22796.pdf
+$ENDCMP
+$CMP R_0603_160k
+D 160KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1603T5E_C22813.pdf
+$ENDCMP
+$CMP R_0603_160R
+D 160Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1600T5E_C22814.pdf
+$ENDCMP
+$CMP R_0603_24R
+D 24Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF240JT5E_C4198.pdf
+$ENDCMP
+$CMP R_0603_30k
+D 30KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3002T5E_C22984.pdf
+$ENDCMP
+$CMP R_0603_360k
+D 360KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3603T5E_C23146.pdf
+$ENDCMP
+$CMP R_0603_360R
+D 360Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF3600T5E_C25194.pdf
+$ENDCMP
+$CMP R_0603_430k
+D 430KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4303T5E_C25969.pdf
+$ENDCMP
+$CMP R_0603_430R
+D 430Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF4300T5E_C23170.pdf
+$ENDCMP
+$CMP R_0603_620k
+D 620KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6203T5E_C23219.pdf
+$ENDCMP
+$CMP R_0603_620R
+D 620Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF6200T5E_C23220.pdf
+$ENDCMP
+$CMP R_0603_750k
+D 750KOhms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF7503T5E_C23240.pdf
+$ENDCMP
+$CMP R_0603_910R
+D 910Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF9100T5E_C23264.pdf
+$ENDCMP
+$CMP R_0603_91R
+D 91Ohms ±1% 1/10W 0603 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF910JT5E_C25199.pdf
+$ENDCMP
+$CMP R_0805_1.5k
+D 1.5KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1501T5E_C4310.pdf
+$ENDCMP
+$CMP R_0805_36k
+D 36KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3602T5E_C4360.pdf
+$ENDCMP
+$CMP R_0805_270R
+D 270Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2700T5E_C17590.pdf
+$ENDCMP
+$CMP R_0805_3M
+D 3MOhms ±5% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8J0305T5E_C26117.pdf
+$ENDCMP
+$CMP R_0805_560k
+D 560KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5603T5E_C15785.pdf
+$ENDCMP
+$CMP R_0805_1.2k
+D 1.2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1201T5E_C17379.pdf
+$ENDCMP
+$CMP R_0805_1.8k
+D 1.8KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1801T5E_C17398.pdf
+$ENDCMP
+$CMP R_0805_100k
+D 100KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1003T5E_C17407.pdf
+$ENDCMP
+$CMP R_0805_100R
+D 100Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1000T5E_C17408.pdf
+$ENDCMP
+$CMP R_0805_10R
+D 10Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/1812121441_Uniroyal-Elec-0805W8F100JT5E_C17415.pdf
+$ENDCMP
+$CMP R_0805_11k
+D 11KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1102T5E_C17429.pdf
+$ENDCMP
+$CMP R_0805_120k
+D 120KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1203T5E_C17436.pdf
+$ENDCMP
+$CMP R_0805_120R
+D 120Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1200T5E_C17437.pdf
+$ENDCMP
+$CMP R_0805_12k
+D 12KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1202T5E_C17444.pdf
+$ENDCMP
+$CMP R_0805_13k
+D 13KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1302T5E_C17455.pdf
+$ENDCMP
+$CMP R_0805_150k
+D 150KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/1812121512_Uniroyal-Elec-0805W8F1503T5E_C17470.pdf
+$ENDCMP
+$CMP R_0805_150R
+D 150Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1500T5E_C17471.pdf
+$ENDCMP
+$CMP R_0805_15k
+D 15KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1502T5E_C17475.pdf
+$ENDCMP
+$CMP R_0805_15R
+D 15Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F150JT5E_C17480.pdf
+$ENDCMP
+$CMP R_0805_180k
+D 180KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1803T5E_C17501.pdf
+$ENDCMP
+$CMP R_0805_18k
+D 18KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/1812121855_Uniroyal-Elec-0805W8F1802T5E_C17506.pdf
+$ENDCMP
+$CMP R_0805_1k
+D 1KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1001T5E_C17513.pdf
+$ENDCMP
+$CMP R_0805_1M
+D 1MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1004T5E_C17514.pdf
+$ENDCMP
+$CMP R_0805_2.2k
+D 2.2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2201T5E_C17520.pdf
+$ENDCMP
+$CMP R_0805_2.2R
+D 2.2Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F220KT5E_C17521.pdf
+$ENDCMP
+$CMP R_0805_2.4k
+D 2.4KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2401T5E_C17526.pdf
+$ENDCMP
+$CMP R_0805_2.7k
+D 2.7KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2701T5E_C17530.pdf
+$ENDCMP
+$CMP R_0805_200k
+D 200KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2003T5E_C17539.pdf
+$ENDCMP
+$CMP R_0805_200R
+D 200Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2000T5E_C17540.pdf
+$ENDCMP
+$CMP R_0805_20k
+D 20KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2002T5E_C4328.pdf
+$ENDCMP
+$CMP R_0805_20R
+D 20Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F200JT5E_C17544.pdf
+$ENDCMP
+$CMP R_0805_220k
+D 220KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2203T5E_C17556.pdf
+$ENDCMP
+$CMP R_0805_220R
+D 220Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2200T5E_C17557.pdf
+$ENDCMP
+$CMP R_0805_22k
+D 22KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2202T5E_C17560.pdf
+$ENDCMP
+$CMP R_0805_22R
+D 22Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F220JT5E_C17561.pdf
+$ENDCMP
+$CMP R_0805_24k
+D 24KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2402T5E_C17575.pdf
+$ENDCMP
+$CMP R_0805_270k
+D 270KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2703T5E_C17589.pdf
+$ENDCMP
+$CMP R_0805_27k
+D 27KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2702T5E_C17593.pdf
+$ENDCMP
+$CMP R_0805_27R
+D 27Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F270JT5E_C17594.pdf
+$ENDCMP
+$CMP R_0805_2k
+D 2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2001T5E_C17604.pdf
+$ENDCMP
+$CMP R_0805_2R
+D 2Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F200KT5E_C17606.pdf
+$ENDCMP
+$CMP R_0805_3.9k
+D 3.9KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3901T5E_C17614.pdf
+$ENDCMP
+$CMP R_0805_300k
+D 300KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3003T5E_C17616.pdf
+$ENDCMP
+$CMP R_0805_300R
+D 300Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3000T5E_C17617.pdf
+$ENDCMP
+$CMP R_0805_330k
+D 330KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/1812131719_Uniroyal-Elec-0805W8F3303T5E_C17629.pdf
+$ENDCMP
+$CMP R_0805_330R
+D 330Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3300T5E_C17630.pdf
+$ENDCMP
+$CMP R_0805_33k
+D 33KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3302T5E_C17633.pdf
+$ENDCMP
+$CMP R_0805_33R
+D 33Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F330JT5E_C17634.pdf
+$ENDCMP
+$CMP R_0805_390R
+D 390Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3900T5E_C17655.pdf
+$ENDCMP
+$CMP R_0805_390k
+D 390KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3903T5E_C17656.pdf
+$ENDCMP
+$CMP R_0805_3k
+D 3KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3001T5E_C17661.pdf
+$ENDCMP
+$CMP R_0805_4.3k
+D 4.3KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4301T5E_C17667.pdf
+$ENDCMP
+$CMP R_0805_4.7R
+D 4.7Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F470KT5E_C17675.pdf
+$ENDCMP
+$CMP R_0805_43k
+D 43KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4302T5E_C17695.pdf
+$ENDCMP
+$CMP R_0805_470k
+D 470KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4703T5E_C17709.pdf
+$ENDCMP
+$CMP R_0805_470R
+D 470Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4700T5E_C17710.pdf
+$ENDCMP
+$CMP R_0805_47k
+D 47KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4702T5E_C17713.pdf
+$ENDCMP
+$CMP R_0805_47R
+D 47Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F470JT5E_C17714.pdf
+$ENDCMP
+$CMP R_0805_49.9k
+D 49.9KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4992T5E_C17719.pdf
+$ENDCMP
+$CMP R_0805_49.9R
+D 49.9Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F499JT5E_C17720.pdf
+$ENDCMP
+$CMP R_0805_4.7k
+D 4.7KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4701T5E_C17673.pdf
+$ENDCMP
+$CMP R_0805_5.1R
+D 5.1Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F510KT5E_C17724.pdf
+$ENDCMP
+$CMP R_0805_5.6k
+D 5.6KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5601T5E_C4382.pdf
+$ENDCMP
+$CMP R_0805_510k
+D 510KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5103T5E_C17733.pdf
+$ENDCMP
+$CMP R_0805_510R
+D 510Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5100T5E_C17734.pdf
+$ENDCMP
+$CMP R_0805_51k
+D 51KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5102T5E_C17737.pdf
+$ENDCMP
+$CMP R_0805_51R
+D 51Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F510JT5E_C17738.pdf
+$ENDCMP
+$CMP R_0805_56k
+D 56KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5602T5E_C17756.pdf
+$ENDCMP
+$CMP R_0805_6.2k
+D 6.2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6201T5E_C17767.pdf
+$ENDCMP
+$CMP R_0805_6.8k
+D 6.8KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6801T5E_C17772.pdf
+$ENDCMP
+$CMP R_0805_62k
+D 62KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6202T5E_C17783.pdf
+$ENDCMP
+$CMP R_0805_680k
+D 680KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6803T5E_C17797.pdf
+$ENDCMP
+$CMP R_0805_680R
+D 680Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6800T5E_C17798.pdf
+$ENDCMP
+$CMP R_0805_68k
+D 68KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F6802T5E_C17801.pdf
+$ENDCMP
+$CMP R_0805_7.5k
+D 7.5KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F7501T5E_C17807.pdf
+$ENDCMP
+$CMP R_0805_750R
+D 750Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F7500T5E_C17818.pdf
+$ENDCMP
+$CMP R_0805_75k
+D 75KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F7502T5E_C17819.pdf
+$ENDCMP
+$CMP R_0805_8.2k
+D 8.2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F8201T5E_C17828.pdf
+$ENDCMP
+$CMP R_0805_820R
+D 820Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F8200T5E_C17837.pdf
+$ENDCMP
+$CMP R_0805_82k
+D 82KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F8202T5E_C17840.pdf
+$ENDCMP
+$CMP R_0805_82R
+D 82Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F820JT5E_C17841.pdf
+$ENDCMP
+$CMP R_0805_9.1k
+D 9.1KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F9101T5E_C17855.pdf
+$ENDCMP
+$CMP R_0805_3.6k
+D 3.6KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3601T5E_C18359.pdf
+$ENDCMP
+$CMP R_0805_75R
+D 75Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F750JT5E_C20638.pdf
+$ENDCMP
+$CMP R_0805_180R
+D 180Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1800T5E_C25270.pdf
+$ENDCMP
+$CMP R_0805_1R
+D 1Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F100KT5E_C25271.pdf
+$ENDCMP
+$CMP R_0805_39k
+D 39KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3902T5E_C25826.pdf
+$ENDCMP
+$CMP R_0805_3.3k
+D 3.3KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3301T5E_C26010.pdf
+$ENDCMP
+$CMP R_0805_10M
+D 10MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1005T5E_C26108.pdf
+$ENDCMP
+$CMP R_0805_2M
+D 2MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2004T5E_C26112.pdf
+$ENDCMP
+$CMP R_0805_10k
+D 10KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1002T5E_C17414.pdf
+$ENDCMP
+$CMP R_0805_5.1k
+D 5.1KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5101T5E_C27834.pdf
+$ENDCMP
+$CMP R_0805_560R
+D 560Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5600T5E_C28636.pdf
+$ENDCMP
+$CMP R_0805_0R
+D 0Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F0000T5E_C17477.pdf
+$ENDCMP
+$CMP R_0805_56R
+D 56Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F560JT5E_C17757.pdf
+$ENDCMP
+$CMP R_0805_68R
+D 68Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F680JT5E_C17802.pdf
+$ENDCMP
+$CMP R_0805_240R
+D 240Ohms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2400T5E_C17572.pdf
+$ENDCMP
+$CMP R_0805_4.99k
+D 4.99KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4991T5E_C17677.pdf
+$ENDCMP
+$CMP R_0805_16k
+D 16KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1602T5E_C17490.pdf
+$ENDCMP
+$CMP R_0805_40.2k
+D 40.2KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4022T5E_C17678.pdf
+$ENDCMP
+$CMP R_0805_91k
+D 91KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F9102T5E_C17866.pdf
+$ENDCMP
+$CMP R_0805_110k
+D 110KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1103T5E_C17422.pdf
+$ENDCMP
+$CMP R_0805_240k
+D 240KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2403T5E_C25824.pdf
+$ENDCMP
+$CMP R_0805_1.2M
+D 1.2MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1204T5E_C17380.pdf
+$ENDCMP
+$CMP R_0805_1.5M
+D 1.5MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F1504T5E_C26110.pdf
+$ENDCMP
+$CMP R_0805_2.2M
+D 2.2MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F2204T5E_C26113.pdf
+$ENDCMP
+$CMP R_0805_4.7M
+D 4.7MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4704T5E_C17674.pdf
+$ENDCMP
+$CMP R_0805_5.1M
+D 5.1MOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F5104T5E_C26114.pdf
+$ENDCMP
+$CMP R_0805_30k
+D 30KOhms ±1% 1/8W 0805 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F3002T5E_C17621.pdf
+$ENDCMP
+$CMP R_1206_1k
+D 1KOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1001T5_C4410.pdf
+$ENDCMP
+$CMP R_1206_750R
+D 750Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F7500T5E_C17985.pdf
+$ENDCMP
+$CMP R_1206_300R
+D 300Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F3000T5E_C17887.pdf
+$ENDCMP
+$CMP R_1206_0R
+D 0Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf
+$ENDCMP
+$CMP R_1206_100k
+D 100KOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1003T5E_C17900.pdf
+$ENDCMP
+$CMP R_1206_100R
+D 100Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1000T5E_C17901.pdf
+$ENDCMP
+$CMP R_1206_10k
+D 10KOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1002T5E_C17902.pdf
+$ENDCMP
+$CMP R_1206_10R
+D 10Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100JT5E_C17903.pdf
+$ENDCMP
+$CMP R_1206_180R
+D 180Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1800T5E_C17924.pdf
+$ENDCMP
+$CMP R_1206_1R
+D 1Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100KT5E_C17928.pdf
+$ENDCMP
+$CMP R_1206_4.7k
+D 4.7KOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F4701T5E_C17936.pdf
+$ENDCMP
+$CMP R_1206_2k
+D 2KOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F2001T5E_C17944.pdf
+$ENDCMP
+$CMP R_1206_20R
+D 20Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F200JT5E_C17955.pdf
+$ENDCMP
+$CMP R_1206_22R
+D 22Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F220JT5E_C17958.pdf
+$ENDCMP
+$CMP R_1206_1.2M
+D 1.2MOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1204T5E_C22107.pdf
+$ENDCMP
+$CMP R_1206_0.1R
+D 0.1Ohms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100LT5E_C25334.pdf
+$ENDCMP
+$CMP R_1206_1M
+D 1MOhms ±1% 1/4W 1206 RoHS
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1004T5E_C17927.pdf
+$ENDCMP
+#
+#End Doc Library
