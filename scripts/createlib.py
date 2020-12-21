@@ -22,9 +22,9 @@ F2 "{2}" -70 0 50 V I C CNN
 F3 "{3}" 0 0 50 V I C CNN
 F4 "{4}" 0 0 50 V I C CNN "LCSC"
 DRAW
-S -40 -100 40 100 0 1 10 N
-X ~ 1 0 150 50 D 50 50 1 1 P
-X ~ 2 0 -150 50 U 50 50 1 1 P
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF'''
 
@@ -85,13 +85,9 @@ def append_parts(lib_file, dcm_file, description_prefix, part_prefix, lib_templa
     cursor.execute('select "LCSC Part", "Manufacturer", "MFR.Part", "Package", "Description", "Datasheet" from parts where {}'.format(where_clause))
     for row in cursor.fetchall():
         (partno, mfg, mfgpart, package, description, datasheet) = row
-        print(description)
         description = re.sub(description_prefix, '', description)
         m = re.match('(\S+).*', description)
         value = m.group(1)
-        print(description_prefix)
-        print(description)
-        print(value)
         value = re.sub('MOhms', 'M', value)
         value = re.sub('KOhms', 'k', value)
         value = re.sub('Ohms', 'R', value)
