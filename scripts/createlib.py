@@ -46,6 +46,27 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF'''
 
+lib_template_led = '''
+#
+# {0}
+#
+DEF {0} D 0 40 N N 1 F N
+F0 "D"  0 100 50 H V C CNN
+F1 "{1}" 0 -100 50 H V C CNN
+F2 "{2}" 0 0 50 H I C CNN
+F3 "{3}" 0 0 50 V I C CNN
+F4 "{4}" 0 0 50 V I C CNN "LCSC"
+DRAW
+P 2 0 1 10 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF'''
+
 dcm_header = '''EESchema-DOCLIB  Version 2.0
 #
 '''
@@ -64,9 +85,13 @@ def append_parts(lib_file, dcm_file, description_prefix, part_prefix, lib_templa
     cursor.execute('select "LCSC Part", "Manufacturer", "MFR.Part", "Package", "Description", "Datasheet" from parts where {}'.format(where_clause))
     for row in cursor.fetchall():
         (partno, mfg, mfgpart, package, description, datasheet) = row
+        print(description)
         description = re.sub(description_prefix, '', description)
         m = re.match('(\S+).*', description)
         value = m.group(1)
+        print(description_prefix)
+        print(description)
+        print(value)
         value = re.sub('MOhms', 'M', value)
         value = re.sub('KOhms', 'k', value)
         value = re.sub('Ohms', 'R', value)
@@ -105,6 +130,19 @@ dcm_file.write(dcm_footer)
 dcm_file.close()
 lib_file.write(lib_footer)
 lib_file.close()
+
+# LEDs
+lib_file = open('build/jlcpcb-basic-led.lib', 'w')
+lib_file.write(lib_header)
+dcm_file = open('build/jlcpcb-basic-led.dcm', 'w')
+dcm_file.write(dcm_header)
+append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0603_1608Metric', '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0603"')
+append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0805_1608Metric', '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0805"')
+dcm_file.write(dcm_footer)
+dcm_file.close()
+lib_file.write(lib_footer)
+lib_file.close()
+
 
 conn.close()
 
