@@ -80,7 +80,7 @@ F {2}
 $ENDCMP
 '''
 
-def append_parts(lib_file, dcm_file, description_prefix, part_prefix, lib_template, kicad_footprint, where_clause):
+def append_parts(lib_file, dcm_file, description_prefix, part_prefix, lib_template, kicad_footprint, name_as_value, where_clause):
     cursor = conn.cursor()
     cursor.execute('select "LCSC Part", "Manufacturer", "MFR.Part", "Package", "Description", "Datasheet" from parts where {}'.format(where_clause))
     for row in cursor.fetchall():
@@ -91,7 +91,10 @@ def append_parts(lib_file, dcm_file, description_prefix, part_prefix, lib_templa
         value = re.sub('MOhms', 'M', value)
         value = re.sub('KOhms', 'k', value)
         value = re.sub('Ohms', 'R', value)
-        name = "{}_{}_{}".format(part_prefix, package, value)
+        if name_as_value:
+            name = value
+        else:
+            name = "{}_{}_{}".format(part_prefix, package, value)
         lib_file.write(lib_template.format(name, value, kicad_footprint, datasheet, partno))
         dcm_file.write(dcm_template.format(name, description, datasheet))
     
@@ -100,40 +103,86 @@ conn = sqlite3.connect('build/parts-basic.db');
 # resistors
 
 lib_file = open('build/jlcpcb-basic-resistor.lib', 'w')
-lib_file.write(lib_header)
 dcm_file = open('build/jlcpcb-basic-resistor.dcm', 'w')
-dcm_file.write(dcm_header)
-append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0402_1005Metric', '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0402"')
-append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0603_1608Metric', '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0603"')
-append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0805_2012Metric', '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0805"')
-append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_1206_3216Metric', '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "1206"')
-dcm_file.write(dcm_footer)
-dcm_file.close()
-lib_file.write(lib_footer)
-lib_file.close()
+lib_0402_file = open('build/jlcpcb-basic-resistor-0402.lib', 'w')
+dcm_0402_file = open('build/jlcpcb-basic-resistor-0402.dcm', 'w')
+lib_0603_file = open('build/jlcpcb-basic-resistor-0603.lib', 'w')
+dcm_0603_file = open('build/jlcpcb-basic-resistor-0603.dcm', 'w')
+lib_0805_file = open('build/jlcpcb-basic-resistor-0805.lib', 'w')
+dcm_0805_file = open('build/jlcpcb-basic-resistor-0805.dcm', 'w')
+lib_1206_file = open('build/jlcpcb-basic-resistor-1206.lib', 'w')
+dcm_1206_file = open('build/jlcpcb-basic-resistor-1206.dcm', 'w')
+
+for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
+    f.write(lib_header)
+for f in [dcm_file, dcm_0402_file, dcm_0603_file, dcm_0805_file, dcm_1206_file]:
+    f.write(dcm_header)
+
+append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0402_1005Metric', 0, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0402"')
+append_parts(lib_0402_file, dcm_0402_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0402_1005Metric', 1, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0402"')
+
+append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0603_1608Metric', 0, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0603"')
+append_parts(lib_0603_file, dcm_0603_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0603_1608Metric', 1, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0603"')
+
+append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0805_2012Metric', 0, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0805"')
+append_parts(lib_0805_file, dcm_0805_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_0805_2012Metric', 1, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "0805"')
+
+append_parts(lib_file, dcm_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_1206_3216Metric', 0, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "1206"')
+append_parts(lib_1206_file, dcm_1206_file, 'Chip Resistor - Surface Mount ', 'R', lib_template_resistor, 'R_1206_3216Metric', 1, '"Second Category" = "Chip Resistor - Surface Mount" and "Package" = "1206"')
+
+for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
+    f.write(lib_footer)
+    f.close()
+
+for f in [dcm_file, dcm_0402_file, dcm_0603_file, dcm_0805_file, dcm_1206_file]:
+    f.write(dcm_footer)
+    f.close()
 
 # capacitors
 
 lib_file = open('build/jlcpcb-basic-mlcc.lib', 'w')
-lib_file.write(lib_header)
 dcm_file = open('build/jlcpcb-basic-mlcc.dcm', 'w')
-dcm_file.write(dcm_header)
-append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0402_1005Metric', '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0402"')
-append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0603_1608Metric', '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0603"')
-append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0805_2012Metric', '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0805"')
-append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_1206_3216Metric', '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "1206"')
-dcm_file.write(dcm_footer)
-dcm_file.close()
-lib_file.write(lib_footer)
-lib_file.close()
+lib_0402_file = open('build/jlcpcb-basic-mlcc-0402.lib', 'w')
+dcm_0402_file = open('build/jlcpcb-basic-mlcc-0402.dcm', 'w')
+lib_0603_file = open('build/jlcpcb-basic-mlcc-0603.lib', 'w')
+dcm_0603_file = open('build/jlcpcb-basic-mlcc-0603.dcm', 'w')
+lib_0805_file = open('build/jlcpcb-basic-mlcc-0805.lib', 'w')
+dcm_0805_file = open('build/jlcpcb-basic-mlcc-0805.dcm', 'w')
+lib_1206_file = open('build/jlcpcb-basic-mlcc-1206.lib', 'w')
+dcm_1206_file = open('build/jlcpcb-basic-mlcc-1206.dcm', 'w')
+
+for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
+    f.write(lib_header)
+for f in [dcm_file, dcm_0402_file, dcm_0603_file, dcm_0805_file, dcm_1206_file]:
+    f.write(dcm_header)
+
+append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0402_1005Metric', 0, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0402"')
+append_parts(lib_0402_file, dcm_0402_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0402_1005Metric', 1, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0402"')
+
+append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0603_1608Metric', 0, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0603"')
+append_parts(lib_0603_file, dcm_0603_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0603_1608Metric', 1, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0603"')
+
+append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0805_2012Metric', 0, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0805"')
+append_parts(lib_0805_file, dcm_0805_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_0805_2012Metric', 1, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "0805"')
+
+append_parts(lib_file, dcm_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_1206_3216Metric', 0, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "1206"')
+append_parts(lib_1206_file, dcm_1206_file, 'Multilayer Ceramic Capacitors MLCC - SMD/SMT ', 'C', lib_template_capacitor, 'C_1206_3216Metric', 1, '"Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" = "1206"')
+
+for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
+    f.write(lib_footer)
+    f.close()
+
+for f in [dcm_file, dcm_0402_file, dcm_0603_file, dcm_0805_file, dcm_1206_file]:
+    f.write(dcm_footer)
+    f.close()
 
 # LEDs
 lib_file = open('build/jlcpcb-basic-led.lib', 'w')
 lib_file.write(lib_header)
 dcm_file = open('build/jlcpcb-basic-led.dcm', 'w')
 dcm_file.write(dcm_header)
-append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0603_1608Metric', '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0603"')
-append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0805_1608Metric', '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0805"')
+append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0603_1608Metric', 0, '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0603"')
+append_parts(lib_file, dcm_file, 'Light Emitting Diodes \(LED\) ', 'D', lib_template_led, 'LED_0805_1608Metric', 0, '"Second Category" = "Light Emitting Diodes (LED)" and "Package" = "LED_0805"')
 dcm_file.write(dcm_footer)
 dcm_file.close()
 lib_file.write(lib_footer)

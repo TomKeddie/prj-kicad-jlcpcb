@@ -1,0 +1,259 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1k
+#
+DEF 1k R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1k" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1001T5_C4410.pdf" 0 0 50 V I C CNN
+F4 "C4410" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 750R
+#
+DEF 750R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "750R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F7500T5E_C17985.pdf" 0 0 50 V I C CNN
+F4 "C17985" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 300R
+#
+DEF 300R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "300R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F3000T5E_C17887.pdf" 0 0 50 V I C CNN
+F4 "C17887" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R
+#
+DEF 0R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf" 0 0 50 V I C CNN
+F4 "C17888" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100k
+#
+DEF 100k R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100k" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1003T5E_C17900.pdf" 0 0 50 V I C CNN
+F4 "C17900" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R
+#
+DEF 100R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1000T5E_C17901.pdf" 0 0 50 V I C CNN
+F4 "C17901" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k
+#
+DEF 10k R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1002T5E_C17902.pdf" 0 0 50 V I C CNN
+F4 "C17902" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10R
+#
+DEF 10R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100JT5E_C17903.pdf" 0 0 50 V I C CNN
+F4 "C17903" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 180R
+#
+DEF 180R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "180R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1800T5E_C17924.pdf" 0 0 50 V I C CNN
+F4 "C17924" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1R
+#
+DEF 1R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100KT5E_C17928.pdf" 0 0 50 V I C CNN
+F4 "C17928" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7k
+#
+DEF 4.7k R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "4.7k" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F4701T5E_C17936.pdf" 0 0 50 V I C CNN
+F4 "C17936" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2k
+#
+DEF 2k R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2k" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F2001T5E_C17944.pdf" 0 0 50 V I C CNN
+F4 "C17944" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 20R
+#
+DEF 20R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "20R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F200JT5E_C17955.pdf" 0 0 50 V I C CNN
+F4 "C17955" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22R
+#
+DEF 22R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "22R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F220JT5E_C17958.pdf" 0 0 50 V I C CNN
+F4 "C17958" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2M
+#
+DEF 1.2M R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1.2M" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1204T5E_C22107.pdf" 0 0 50 V I C CNN
+F4 "C22107" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.1R
+#
+DEF 0.1R R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0.1R" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F100LT5E_C25334.pdf" 0 0 50 V I C CNN
+F4 "C25334" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M
+#
+DEF 1M R 0 40 N N 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1M" 0 0 50 V V C CNN
+F2 "R_1206_3216Metric" -70 0 50 V I C CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F1004T5E_C17927.pdf" 0 0 50 V I C CNN
+F4 "C17927" 0 0 50 V I C CNN "LCSC"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

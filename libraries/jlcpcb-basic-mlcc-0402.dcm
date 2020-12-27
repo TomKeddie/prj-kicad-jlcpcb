@@ -1,0 +1,168 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1uF
+D 1uF 25V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.pdf
+$ENDCMP
+$CMP 1.5nF
+D 1.5nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B152KB5NNNC_C23967.pdf
+$ENDCMP
+$CMP 10uF
+D 10uF 6.3V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A106MQ5NUNC_C15525.pdf
+$ENDCMP
+$CMP 150pF
+D 150pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B151K500NT_C1527.pdf
+$ENDCMP
+$CMP 2pF
+D 2pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R0C500NT_C1558.pdf
+$ENDCMP
+$CMP 2.7pF
+D 2.7pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R7C500NT_C1561.pdf
+$ENDCMP
+$CMP 20pF
+D 20pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG200J500NT_C1554.pdf
+$ENDCMP
+$CMP 220pF
+D 220pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B221K500NT_C1530.pdf
+$ENDCMP
+$CMP 22nF
+D 22nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B223K500NT_C1532.pdf
+$ENDCMP
+$CMP 27pF
+D 27pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG270J500NTN_C1557.pdf
+$ENDCMP
+$CMP 3.3nF
+D 3.3nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B332KB5NNNC_C26404.pdf
+$ENDCMP
+$CMP 3.3pF
+D 3.3pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG3R3C500NT_C1565.pdf
+$ENDCMP
+$CMP 30pF
+D 30pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG300J500NT_C1570.pdf
+$ENDCMP
+$CMP 330pF
+D 330pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C331JB5NNNC_C13533.pdf
+$ENDCMP
+$CMP 33nF
+D 33nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402F333M500NT_C1585.pdf
+$ENDCMP
+$CMP 4.7nF
+D 4.7nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B472K500NT_C1538.pdf
+$ENDCMP
+$CMP 4.7pF
+D 4.7pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG4R7C500NT_C1569.pdf
+$ENDCMP
+$CMP 47pF
+D 47pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG470J500NT_C1567.pdf
+$ENDCMP
+$CMP 56pF
+D 56pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG560J500NT_C1572.pdf
+$ENDCMP
+$CMP 6pF
+D 6pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG6R0C500NT_C30274.pdf
+$ENDCMP
+$CMP 6.8nF
+D 6.8nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B682K500NT_C1542.pdf
+$ENDCMP
+$CMP 6.8pF
+D 6.8pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG6R8C500NT_C1576.pdf
+$ENDCMP
+$CMP 68pF
+D 68pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C680JB5NNNC_C14441.pdf
+$ENDCMP
+$CMP 1nF
+D 1nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf
+$ENDCMP
+$CMP 100nF
+D 100nF 16V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf
+$ENDCMP
+$CMP 2.2nF
+D 2.2nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B222K500NT_C1531.pdf
+$ENDCMP
+$CMP 470pF
+D 470pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B471K500NT_C1537.pdf
+$ENDCMP
+$CMP 100pF
+D 100pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf
+$ENDCMP
+$CMP 12pF
+D 12pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG120J500NT_C1547.pdf
+$ENDCMP
+$CMP 15pF
+D 15pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG150J500NT_C1548.pdf
+$ENDCMP
+$CMP 18pF
+D 18pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG180J500NT_C1549.pdf
+$ENDCMP
+$CMP 1.5pF
+D 1.5pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG1R5C500NT_C1552.pdf
+$ENDCMP
+$CMP 22pF
+D 22pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf
+$ENDCMP
+$CMP 2.2pF
+D 2.2pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG2R2C500NT_C1559.pdf
+$ENDCMP
+$CMP 33pF
+D 33pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG330J500NT_C1562.pdf
+$ENDCMP
+$CMP 10nF
+D 10nF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B103KB5NNNC_C15195.pdf
+$ENDCMP
+$CMP 220nF
+D 220nF 16V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05B224KO5NNNC_C16772.pdf
+$ENDCMP
+$CMP 4.7uF
+D 4.7uF 10V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A475MP5NRNC_C23733.pdf
+$ENDCMP
+$CMP 1pF
+D 1pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG1R0C500NT_C1550.pdf
+$ENDCMP
+$CMP 10pF
+D 10pF 50V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05C100JB5NNNC_C32949.pdf
+$ENDCMP
+$CMP 470nF
+D 470nF 10V 0402 RoHS
+F https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A474KP5NNNC_C47339.pdf
+$ENDCMP
+#
+#End Doc Library
