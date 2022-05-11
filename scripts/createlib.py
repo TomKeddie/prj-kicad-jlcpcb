@@ -3,6 +3,11 @@ import sqlite3
 import re
 import operator
 import sys
+import importlib
+
+sys.path.append("kicad_library_utils/common")
+
+import kicad_sym
 
 lib_header = ''''''
 
@@ -14,7 +19,11 @@ lib_template_resistor = ''' name "{}" value "{}" footprint "{}" datasheet "{}" d
 lib_template_capacitor = lib_template_resistor
 lib_template_led = lib_template_resistor
 
-def append_parts(lib_file, description_value_re, part_prefix, lib_template, kicad_footprint, where_clause):
+effect_hidden = kicad_sym.TextEffect(sizex=0, sizey=0, is_hidden=True)
+effect_halign_left = kicad_sym.TextEffect(sizex=1.27, sizey=1.27, h_justify="left")
+color_none = kicad_sym.Color(r=0, g=0, b=0, a=0)
+
+def append_parts(lib_object, description_value_re, part_prefix, lib_template, reference, footprint, symbol_pins, symbol_rectangles, where_clause):
     cursor = conn.cursor()
     cursor.execute('select "LCSC Part", "Manufacturer", "MFR.Part", "Description", "Datasheet" from parts where {}'.format(where_clause))
     for row in cursor.fetchall():
@@ -27,29 +36,59 @@ def append_parts(lib_file, description_value_re, part_prefix, lib_template, kica
             continue
         # print(lcsc_part + " " + description)
         name = part_prefix + "_" + value
-        description_txt =  mfg_name + "," + mfg_part + "," + re.sub("[^-A-Za-z 0-9%(),]", " ", description)
-        lib_file.write(lib_template.format(name, value, kicad_footprint, datasheet, description_txt, lcsc_part))
+        description_txt = re.sub("[^-A-Za-z 0-9%(),]", " ", description).strip()
+        symbol = kicad_sym.KicadSymbol.new(name=name,
+                                           libname="jlcpcb-basic-resistor",
+                                           reference=reference,
+                                           footprint=footprint,
+                                           description=description_txt,
+                                           datasheet=datasheet,
+        )
+        symbol.properties.append(kicad_sym.Property(name="LCSC", value=lcsc_part, idd=len(symbol.properties), effects=effect_hidden))
+        symbol.properties.append(kicad_sym.Property(name="MFG", value=mfg_name, idd=len(symbol.properties), effects=effect_hidden))
+        symbol.properties.append(kicad_sym.Property(name="MFGPN", value=mfg_part, idd=len(symbol.properties), effects=effect_hidden))
+        symbol.get_property("Reference").posx=0.762
+        symbol.get_property("Reference").posy=0.508
+        symbol.get_property("Reference").effects=effect_halign_left
+        symbol.get_property("Value").posx=0.762
+        symbol.get_property("Value").posy=-1.016
+        symbol.get_property("Value").effects=effect_halign_left
+        for pin in symbol_pins:
+            symbol.pins.append(pin)
+        for rectangle in symbol_rectangles:
+            symbol.rectangles.append(rectangle)
+        lib_object.symbols.append(symbol)
     
 conn = sqlite3.connect('build/parts-basic.db');
 
 # resistors
 
-lib_file = open('build/jlcpcb-basic-resistor.kicad_sym', 'w')
-lib_0402_file = open('build/jlcpcb-basic-resistor-0402.kicad_sym', 'w')
-lib_0603_file = open('build/jlcpcb-basic-resistor-0603.kicad_sym', 'w')
-lib_0805_file = open('build/jlcpcb-basic-resistor-0805.kicad_sym', 'w')
-lib_1206_file = open('build/jlcpcb-basic-resistor-1206.kicad_sym', 'w')
+lib_resistors_all = kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor.kicad_sym")
+lib_resistors_all.version = 20211014
 
-for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
-    f.write(lib_header)
+symbol_pins = [ kicad_sym.Pin(name="~", number="1", etype="passive", posx=0, posy=2.54, rotation=270, length=0.762, name_effect=effect_hidden, number_effect=effect_hidden),
+                kicad_sym.Pin(name="~", number="2", etype="passive", posx=0, posy=-2.54, rotation=90, length=0.762, name_effect=effect_hidden, number_effect=effect_hidden),
+                ]
 
-# "¡À1% 1/16W Thick Film Resistors 50V ¡À100ppm/¡æ -55¡æ~+155¡æ 2k¦¸ 0402 Chip Resistor - Surface Mount ROHS"
-append_parts(lib_file,
+# (start -0.762 1.778) (end 0.762 -1.778)
+resistor_rectangles = [ kicad_sym.Rectangle(startx=-0.762, starty=1.778, endx=0.762, endy=-1.778, fill_type="none", stroke_width=0.2032) ]
+
+#0.762 -1.016 0
+
+append_parts(lib_resistors_all,
              ".*¡æ(.*)¦¸.*",
-            'R_0402',
-            lib_template_resistor,
-            'R_0402_1005Metric',
+             'R_0402',
+             lib_template_resistor,
+             'R',
+             'R_0402_1005Metric',
+             symbol_pins,
+             resistor_rectangles,
             '"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
+
+lib_resistors_all.write()
+sys.exit(0)
+
+
 append_parts(lib_0402_file,
              ".*¡æ(.*)¦¸.*",
             'R',
@@ -96,24 +135,7 @@ append_parts(lib_1206_file,
             'R_1206_3216Metric',
             '"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%1206"')
 
-for f in [lib_file,
-            lib_0402_file,
-            lib_0603_file,
-            lib_0805_file,
-            lib_1206_file]:
-    f.write(lib_footer)
-    f.close()
-
 # capacitors
-
-lib_file = open('build/jlcpcb-basic-mlcc.kicad_sym', 'w')
-lib_0402_file = open('build/jlcpcb-basic-mlcc-0402.kicad_sym', 'w')
-lib_0603_file = open('build/jlcpcb-basic-mlcc-0603.kicad_sym', 'w')
-lib_0805_file = open('build/jlcpcb-basic-mlcc-0805.kicad_sym', 'w')
-lib_1206_file = open('build/jlcpcb-basic-mlcc-1206.kicad_sym', 'w')
-
-for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
-    f.write(lib_header)
 
 append_parts(lib_file,
              "(.*)¡À.*",
@@ -166,31 +188,22 @@ append_parts(lib_1206_file,
             lib_template_capacitor,
             'C_1206_3216Metric',
             '"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%1206"')
-
-for f in [lib_file, lib_0402_file, lib_0603_file, lib_0805_file, lib_1206_file]:
-    f.write(lib_footer)
-    f.close()
-
 sys.exit(0)
+
 # LEDs
-lib_file = open('build/jlcpcb-basic-led.kicad_sym',
-            'w')
-lib_file.write(lib_header)
+
 append_parts(lib_file,
              ".*¡æ.* (a-zA-z) .*",
-            'D',
+            'D_0603',
             lib_template_led,
             'LED_0603_1608Metric',
             '"Second Category" = "Light Emitting Diodes (LED)" and "Package" like "%LED_0603"')
 append_parts(lib_file,
              ".*¡æ.* (a-zA-z) .*",
-            'D',
+            'D_0805',
             lib_template_led,
             'LED_0805_2012Metric',
             '"Second Category" = "Light Emitting Diodes (LED)" and "Package" like "%LED_0805"')
-lib_file.write(lib_footer)
-lib_file.close()
-
 
 conn.close()
 
