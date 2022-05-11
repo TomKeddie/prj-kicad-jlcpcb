@@ -269,22 +269,6 @@ append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-120
              symbol_polylines=capacitor_polylines,
              text_posx=1.71,
              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
-sys.exit(0)
-
-# LEDs
-
-append_parts(lib_capacitors_all,
-             ".*¡æ.* (a-zA-z) .*",
-            'D_0603',
-            lib_template_led,
-            'LED_0603_1608Metric',
-            '"Second Category" = "Light Emitting Diodes (LED)" and "Package" like "%LED_0603"')
-append_parts(lib_capacitors_all,
-             ".*¡æ.* (a-zA-z) .*",
-            'D_0805',
-            lib_template_led,
-            'LED_0805_2012Metric',
-            '"Second Category" = "Light Emitting Diodes (LED)" and "Package" like "%LED_0805"')
 
 conn.close()
 
