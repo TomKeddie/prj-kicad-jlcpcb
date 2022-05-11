@@ -9,6 +9,9 @@ mkdir -p build
 create index package on parts(Package);
 create index description on parts(Description);
 create index category_package on parts("Second Category", "Package");
+update parts set description='25V 10uF X5R ¡À20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À20% 10uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
+update parts set description='25V 10uF X5R ¡À10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À10% 10uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
+update parts set description='25V 22uF X5R ¡À20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À20% 22uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
 EOF
 [ -f build/createdb-basic.sql ] || cat >build/createdb-basic.sql <<EOF
 .mode csv
@@ -17,7 +20,11 @@ DELETE from parts where "Library Type" <> "Basic";
 create index package on parts(Package);
 create index description on parts(Description);
 create index category_package on parts("Second Category", "Package");
+update parts set description='25V 10uF X5R ¡À20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À20% 10uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
+update parts set description='25V 10uF X5R ¡À10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À10% 10uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
+update parts set description='25V 22uF X5R ¡À20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS' where description='X5R 25V ¡À20% 22uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'
 EOF
+
 [ -f build/parts-basic.db ] || cat build/createdb-basic.sql | sqlite3 build/parts-basic.db
 [ -f build/parts.db ] || cat build/createdb.sql | sqlite3 build/parts.db
 python createlib.py
