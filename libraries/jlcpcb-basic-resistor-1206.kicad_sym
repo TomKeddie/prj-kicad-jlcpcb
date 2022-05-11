@@ -1,0 +1,2739 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator kicad-library-utils)
+  (symbol "1k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-1206W4F1001T5_C4410.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V -55    155   1k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C4410"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1001T5"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "300"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "300/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F3000T5E_C17887.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   300   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17887"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F3000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "300_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "0"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "0/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   0   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17888"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F0000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "0_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   100k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17900"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1003T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   100   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17901"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1002T5E_C17902.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   10k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17902"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1002T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F100JT5E_C17903.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   400ppm    -55    155   10   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17903"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "120"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "120/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   120   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17909"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1200T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "120_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "180"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "180/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1800T5E_C17924.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   100ppm    -55    155   180   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17924"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1800T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "180_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1M"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1M/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1004T5E_C17927.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   1M   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17927"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1004T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1M_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F100KT5E_C17928.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   1   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17928"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100KT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "4.7k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "4.7k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   100ppm    -55    155   4 7k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17936"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F4701T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "4.7k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "2k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "2k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F2001T5E_C17944.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   2k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17944"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F2001T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "2k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "20"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "20/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F200JT5E_C17955.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   20   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17955"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F200JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "20_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F220JT5E_C17958.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   22   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17958"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F220JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "750"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "750/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F7500T5E_C17985.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   750   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17985"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F7500T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "750_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1.2M"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1.2M/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110252030_UNI-ROYAL-Uniroyal-Elec-1206W4F1204T5E_C22107.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   1 2M   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C22107"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1204T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1.2M_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100m"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100m/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110252330_UNI-ROYAL-Uniroyal-Elec-1206W4F100LT5E_C25334.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   100m   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C25334"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100LT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100m_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-1206W4F1001T5_C4410.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V -55    155   1k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C4410"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1001T5"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "300"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "300/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F3000T5E_C17887.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   300   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17887"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F3000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "300_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "0"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "0/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   0   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17888"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F0000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "0_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   100k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17900"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1003T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   100   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17901"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1000T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1002T5E_C17902.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   10k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17902"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1002T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F100JT5E_C17903.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   400ppm    -55    155   10   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17903"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "120"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "120/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   120   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17909"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1200T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "120_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "180"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "180/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1800T5E_C17924.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   100ppm    -55    155   180   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17924"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1800T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "180_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1M"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1M/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F1004T5E_C17927.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   1M   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17927"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1004T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1M_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F100KT5E_C17928.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   1   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17928"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100KT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "4.7k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "4.7k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   100ppm    -55    155   4 7k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17936"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F4701T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "4.7k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "2k"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "2k/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F2001T5E_C17944.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   2k   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17944"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F2001T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "2k_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "20"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "20/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F200JT5E_C17955.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   20   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17955"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F200JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "20_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F220JT5E_C17958.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   22   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17958"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F220JT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "750"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "750/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110251930_UNI-ROYAL-Uniroyal-Elec-1206W4F7500T5E_C17985.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   750   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C17985"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F7500T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "750_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1.2M"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1.2M/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110252030_UNI-ROYAL-Uniroyal-Elec-1206W4F1204T5E_C22107.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 1 4W Thick Film Resistors 200V   100ppm    -55    155   1 2M   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C22107"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F1204T5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1.2M_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100m"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "R"
+      (id 0)
+      (at 0.762 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100m/1%"
+      (id 1)
+      (at 0.762 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "R_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2110252330_UNI-ROYAL-Uniroyal-Elec-1206W4F100LT5E_C25334.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "1% 250mW Thick Film Resistors 200V   800ppm    -55    155   100m   1206 Chip Resistor - Surface Mount ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C25334"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "UNI-ROYAL(Uniroyal Elec)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206W4F100LT5E"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100m_0_0"
+      (rectangle
+        (start -0.762 1.778)
+        (end 0.762 -1.778)
+        (stroke (width 0.2032))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 0.762)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide))))))

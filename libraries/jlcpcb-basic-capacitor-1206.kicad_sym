@@ -1,0 +1,2057 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator kicad-library-utils)
+  (symbol "10nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811051111_FH-Guangdong-Fenghua-Advanced-Tech-1206B103K500NT_C1846.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 10nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1846"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B103K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL31B105KBHNNNE_C1848.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 1uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1848"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B105KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "220nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "220nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311313_FH-Guangdong-Fenghua-Advanced-Tech-1206B224K500NT_C1857.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 220nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1857"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B224K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "220nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22uF_10V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22uF/10V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A226KPHNNNE_C5672.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "10V 22uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C5672"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A226KPHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22uF_10V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1nF_2kV_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1nF/2kV/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311314_FH-Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "2kV 1nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C9196"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B102K202NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1nF_2kV_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22uF_25V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22uF/25V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "25V 22uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C12891"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A226KAHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22uF_25V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10uF_50V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10uF/50V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 10uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C13585"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A106KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10uF_50V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100uF_6.3V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100uF/6.3V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301816_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "6 3V 100uF X5R   20% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C15008"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A107MQHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100uF_6.3V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221109_Samsung-Electro-Mechanics-CL31B104KBCNNNC_C24497.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 100nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C24497"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B104KBCNNNC"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "4.7uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "4.7uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811091112_FH-Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 4 7uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C29823"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B475K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "4.7uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1nF_500V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1nF/500V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221111_Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "500V 1nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C35216"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B102KGFNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1nF_500V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "2.2uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "2.2uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811072012_Samsung-Electro-Mechanics-CL31B225KBHNNNE_C50254.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 2 2uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C50254"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B225KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "2.2uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "47uF_10V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "47uF/10V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "10V 47uF X5R   20% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C96123"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A476MPHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "47uF_10V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811051111_FH-Guangdong-Fenghua-Advanced-Tech-1206B103K500NT_C1846.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 10nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1846"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B103K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL31B105KBHNNNE_C1848.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 1uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1848"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B105KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "220nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "220nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311313_FH-Guangdong-Fenghua-Advanced-Tech-1206B224K500NT_C1857.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 220nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C1857"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B224K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "220nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22uF_10V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22uF/10V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A226KPHNNNE_C5672.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "10V 22uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C5672"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A226KPHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22uF_10V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1nF_2kV_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1nF/2kV/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810311314_FH-Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "2kV 1nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C9196"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B102K202NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1nF_2kV_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "22uF_25V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "22uF/25V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "25V 22uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C12891"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A226KAHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "22uF_25V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "10uF_50V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "10uF/50V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 10uF X5R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C13585"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A106KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "10uF_50V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100uF_6.3V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100uF/6.3V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301816_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "6 3V 100uF X5R   20% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C15008"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A107MQHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100uF_6.3V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "100nF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100nF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221109_Samsung-Electro-Mechanics-CL31B104KBCNNNC_C24497.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 100nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C24497"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B104KBCNNNC"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "100nF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "4.7uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "4.7uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811091112_FH-Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 4 7uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C29823"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "FH(Guangdong Fenghua Advanced Tech)"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "1206B475K500NT"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "4.7uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "1nF_500V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "1nF/500V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221111_Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "500V 1nF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C35216"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B102KGFNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "1nF_500V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "2.2uF_50V_X7R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "2.2uF/50V/X7R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811072012_Samsung-Electro-Mechanics-CL31B225KBHNNNE_C50254.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "50V 2 2uF X7R   10% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C50254"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31B225KBHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "2.2uF_50V_X7R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide)))))
+  (symbol "47uF_10V_X5R "
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "C"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "47uF/10V/X5R "
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "C_1206_3216Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_description" "10V 47uF X5R   20% 1206 Multilayer Ceramic Capacitors MLCC - SMD SMT ROHS"
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 1.27 1.27))))
+    (property "LCSC" "C96123"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFG" "Samsung Electro-Mechanics"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (property "MFGPN" "CL31A476MPHNNNE"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font (size 0 0))hide))
+    (symbol "47uF_10V_X5R _0_0"
+      (polyline
+        (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (polyline
+        (pts (xy -1.524 0.508) (xy 1.524 0.508))
+        (stroke (width 0.3048))
+        (fill (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "1" (effects (font (size 0 0))hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~" (effects (font (size 0 0))hide))
+        (number "2" (effects (font (size 0 0))hide))))))
