@@ -1,7 +1,7 @@
 (kicad_symbol_lib
   (version 20211014)
   (generator kicad-library-utils)
-  (symbol "10nF_50V_X7R "
+  (symbol "10nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -10,7 +10,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10nF/50V/X7R "
+    (property "Value" "10nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -61,7 +61,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10nF_50V_X7R _0_0"
+    (symbol "10nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -80,7 +80,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "150pF_50V_X7R "
+  (symbol "150pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -89,7 +89,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "150pF/50V/X7R "
+    (property "Value" "150pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -140,7 +140,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "150pF_50V_X7R _0_0"
+    (symbol "150pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -159,7 +159,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1.5nF_50V_X7R "
+  (symbol "1.5nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -168,7 +168,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1.5nF/50V/X7R "
+    (property "Value" "1.5nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -219,7 +219,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1.5nF_50V_X7R _0_0"
+    (symbol "1.5nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -238,7 +238,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22nF_50V_X7R "
+  (symbol "22nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -247,7 +247,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22nF/50V/X7R "
+    (property "Value" "22nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -298,7 +298,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22nF_50V_X7R _0_0"
+    (symbol "22nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -317,7 +317,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "33nF_50V_X7R "
+  (symbol "33nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -326,7 +326,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "33nF/50V/X7R "
+    (property "Value" "33nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -377,7 +377,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "33nF_50V_X7R _0_0"
+    (symbol "33nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -396,7 +396,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "330nF_50V_X7R "
+  (symbol "330nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -405,7 +405,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "330nF/50V/X7R "
+    (property "Value" "330nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -456,7 +456,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "330nF_50V_X7R _0_0"
+    (symbol "330nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -475,7 +475,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "470pF_50V_X7R "
+  (symbol "470pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -484,7 +484,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "470pF/50V/X7R "
+    (property "Value" "470pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -535,7 +535,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "470pF_50V_X7R _0_0"
+    (symbol "470pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -554,7 +554,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "4.7nF_50V_X7R "
+  (symbol "4.7nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -563,7 +563,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7nF/50V/X7R "
+    (property "Value" "4.7nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -614,7 +614,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "4.7nF_50V_X7R _0_0"
+    (symbol "4.7nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -633,7 +633,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "6.8nF_50V_X7R "
+  (symbol "6.8nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -642,7 +642,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "6.8nF/50V/X7R "
+    (property "Value" "6.8nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -693,7 +693,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "6.8nF_50V_X7R _0_0"
+    (symbol "6.8nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -712,7 +712,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "4.7uF_25V_X5R "
+  (symbol "4.7uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -721,7 +721,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7uF/25V/X5R "
+    (property "Value" "4.7uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -772,7 +772,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "4.7uF_25V_X5R _0_0"
+    (symbol "4.7uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -791,7 +791,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10pF_50V_C0G "
+  (symbol "10pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -800,7 +800,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10pF/50V/C0G "
+    (property "Value" "10pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -851,7 +851,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10pF_50V_C0G _0_0"
+    (symbol "10pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -870,7 +870,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100pF_50V_C0G "
+  (symbol "100pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -879,7 +879,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100pF/50V/C0G "
+    (property "Value" "100pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -930,7 +930,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100pF_50V_C0G _0_0"
+    (symbol "100pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -949,7 +949,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "12pF_50V_C0G "
+  (symbol "12pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -958,7 +958,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "12pF/50V/C0G "
+    (property "Value" "12pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1009,7 +1009,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "12pF_50V_C0G _0_0"
+    (symbol "12pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1028,7 +1028,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "15pF_50V_C0G "
+  (symbol "15pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1037,7 +1037,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "15pF/50V/C0G "
+    (property "Value" "15pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1088,7 +1088,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "15pF_50V_C0G _0_0"
+    (symbol "15pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1107,7 +1107,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "18pF_50V_C0G "
+  (symbol "18pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1116,7 +1116,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "18pF/50V/C0G "
+    (property "Value" "18pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1167,7 +1167,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "18pF_50V_C0G _0_0"
+    (symbol "18pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1186,7 +1186,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "20pF_50V_C0G "
+  (symbol "20pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1195,7 +1195,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "20pF/50V/C0G "
+    (property "Value" "20pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1246,7 +1246,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "20pF_50V_C0G _0_0"
+    (symbol "20pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1265,7 +1265,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22pF_50V_C0G "
+  (symbol "22pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1274,7 +1274,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22pF/50V/C0G "
+    (property "Value" "22pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1325,7 +1325,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22pF_50V_C0G _0_0"
+    (symbol "22pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1344,7 +1344,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "220nF_50V_X7R "
+  (symbol "220nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1353,7 +1353,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "220nF/50V/X7R "
+    (property "Value" "220nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1404,7 +1404,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "220nF_50V_X7R _0_0"
+    (symbol "220nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1423,7 +1423,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "470nF_50V_X7R "
+  (symbol "470nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1432,7 +1432,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "470nF/50V/X7R "
+    (property "Value" "470nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1483,7 +1483,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "470nF_50V_X7R _0_0"
+    (symbol "470nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1502,7 +1502,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47pF_50V_C0G "
+  (symbol "47pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1511,7 +1511,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47pF/50V/C0G "
+    (property "Value" "47pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1562,7 +1562,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47pF_50V_C0G _0_0"
+    (symbol "47pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1581,7 +1581,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10uF_25V_X5R "
+  (symbol "10uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1590,7 +1590,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10uF/25V/X5R "
+    (property "Value" "10uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1641,7 +1641,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10uF_25V_X5R _0_0"
+    (symbol "10uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1660,7 +1660,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47uF_6.3V_X5R "
+  (symbol "47uF,6.3V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1669,7 +1669,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47uF/6.3V/X5R "
+    (property "Value" "47uF,6.3V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1720,7 +1720,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47uF_6.3V_X5R _0_0"
+    (symbol "47uF,6.3V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1739,7 +1739,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100nF_100V_X7R "
+  (symbol "100nF,100V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1748,7 +1748,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100nF/100V/X7R "
+    (property "Value" "100nF,100V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1799,7 +1799,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100nF_100V_X7R _0_0"
+    (symbol "100nF,100V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1818,7 +1818,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "2.2nF_50V_C0G "
+  (symbol "2.2nF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1827,7 +1827,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2.2nF/50V/C0G "
+    (property "Value" "2.2nF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1878,7 +1878,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "2.2nF_50V_C0G _0_0"
+    (symbol "2.2nF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1897,7 +1897,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1uF_50V_X7R "
+  (symbol "1uF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1906,7 +1906,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1uF/50V/X7R "
+    (property "Value" "1uF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -1957,7 +1957,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1uF_50V_X7R _0_0"
+    (symbol "1uF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -1976,7 +1976,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22uF_25V_X5R "
+  (symbol "22uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -1985,7 +1985,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22uF/25V/X5R "
+    (property "Value" "22uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2036,7 +2036,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22uF_25V_X5R _0_0"
+    (symbol "22uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2055,7 +2055,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1nF_50V_X7R "
+  (symbol "1nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2064,7 +2064,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1nF/50V/X7R "
+    (property "Value" "1nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2115,7 +2115,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1nF_50V_X7R _0_0"
+    (symbol "1nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2134,7 +2134,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "2.2uF_50V_Y5V "
+  (symbol "2.2uF,50V,Y5V "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2143,7 +2143,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2.2uF/50V/Y5V "
+    (property "Value" "2.2uF,50V,Y5V "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2194,7 +2194,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "2.2uF_50V_Y5V _0_0"
+    (symbol "2.2uF,50V,Y5V _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2213,7 +2213,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100nF_50V_X7R "
+  (symbol "100nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2222,7 +2222,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100nF/50V/X7R "
+    (property "Value" "100nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2273,7 +2273,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100nF_50V_X7R _0_0"
+    (symbol "100nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2292,7 +2292,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "330pF_50V_X7R "
+  (symbol "330pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2301,7 +2301,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "330pF/50V/X7R "
+    (property "Value" "330pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2352,7 +2352,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "330pF_50V_X7R _0_0"
+    (symbol "330pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2371,7 +2371,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47nF_50V_X7R "
+  (symbol "47nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2380,7 +2380,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47nF/50V/X7R "
+    (property "Value" "47nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2431,7 +2431,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47nF_50V_X7R _0_0"
+    (symbol "47nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2450,7 +2450,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "220pF_50V_X7R "
+  (symbol "220pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2459,7 +2459,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "220pF/50V/X7R "
+    (property "Value" "220pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2510,7 +2510,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "220pF_50V_X7R _0_0"
+    (symbol "220pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2529,7 +2529,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "3.3nF_50V_X7R "
+  (symbol "3.3nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2538,7 +2538,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "3.3nF/50V/X7R "
+    (property "Value" "3.3nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2589,7 +2589,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "3.3nF_50V_X7R _0_0"
+    (symbol "3.3nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2608,7 +2608,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10uF_50V_X5R "
+  (symbol "10uF,50V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2617,7 +2617,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10uF/50V/X5R "
+    (property "Value" "10uF,50V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2668,7 +2668,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10uF_50V_X5R _0_0"
+    (symbol "10uF,50V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2687,7 +2687,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10nF_50V_X7R "
+  (symbol "10nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2696,7 +2696,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10nF/50V/X7R "
+    (property "Value" "10nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2747,7 +2747,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10nF_50V_X7R _0_0"
+    (symbol "10nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2766,7 +2766,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "150pF_50V_X7R "
+  (symbol "150pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2775,7 +2775,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "150pF/50V/X7R "
+    (property "Value" "150pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2826,7 +2826,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "150pF_50V_X7R _0_0"
+    (symbol "150pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2845,7 +2845,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1.5nF_50V_X7R "
+  (symbol "1.5nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2854,7 +2854,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1.5nF/50V/X7R "
+    (property "Value" "1.5nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2905,7 +2905,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1.5nF_50V_X7R _0_0"
+    (symbol "1.5nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -2924,7 +2924,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22nF_50V_X7R "
+  (symbol "22nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -2933,7 +2933,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22nF/50V/X7R "
+    (property "Value" "22nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -2984,7 +2984,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22nF_50V_X7R _0_0"
+    (symbol "22nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3003,7 +3003,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "33nF_50V_X7R "
+  (symbol "33nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3012,7 +3012,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "33nF/50V/X7R "
+    (property "Value" "33nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3063,7 +3063,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "33nF_50V_X7R _0_0"
+    (symbol "33nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3082,7 +3082,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "330nF_50V_X7R "
+  (symbol "330nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3091,7 +3091,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "330nF/50V/X7R "
+    (property "Value" "330nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3142,7 +3142,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "330nF_50V_X7R _0_0"
+    (symbol "330nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3161,7 +3161,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "470pF_50V_X7R "
+  (symbol "470pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3170,7 +3170,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "470pF/50V/X7R "
+    (property "Value" "470pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3221,7 +3221,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "470pF_50V_X7R _0_0"
+    (symbol "470pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3240,7 +3240,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "4.7nF_50V_X7R "
+  (symbol "4.7nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3249,7 +3249,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7nF/50V/X7R "
+    (property "Value" "4.7nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3300,7 +3300,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "4.7nF_50V_X7R _0_0"
+    (symbol "4.7nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3319,7 +3319,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "6.8nF_50V_X7R "
+  (symbol "6.8nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3328,7 +3328,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "6.8nF/50V/X7R "
+    (property "Value" "6.8nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3379,7 +3379,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "6.8nF_50V_X7R _0_0"
+    (symbol "6.8nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3398,7 +3398,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "4.7uF_25V_X5R "
+  (symbol "4.7uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3407,7 +3407,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7uF/25V/X5R "
+    (property "Value" "4.7uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3458,7 +3458,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "4.7uF_25V_X5R _0_0"
+    (symbol "4.7uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3477,7 +3477,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10pF_50V_C0G "
+  (symbol "10pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3486,7 +3486,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10pF/50V/C0G "
+    (property "Value" "10pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3537,7 +3537,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10pF_50V_C0G _0_0"
+    (symbol "10pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3556,7 +3556,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100pF_50V_C0G "
+  (symbol "100pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3565,7 +3565,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100pF/50V/C0G "
+    (property "Value" "100pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3616,7 +3616,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100pF_50V_C0G _0_0"
+    (symbol "100pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3635,7 +3635,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "12pF_50V_C0G "
+  (symbol "12pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3644,7 +3644,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "12pF/50V/C0G "
+    (property "Value" "12pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3695,7 +3695,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "12pF_50V_C0G _0_0"
+    (symbol "12pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3714,7 +3714,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "15pF_50V_C0G "
+  (symbol "15pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3723,7 +3723,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "15pF/50V/C0G "
+    (property "Value" "15pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3774,7 +3774,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "15pF_50V_C0G _0_0"
+    (symbol "15pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3793,7 +3793,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "18pF_50V_C0G "
+  (symbol "18pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3802,7 +3802,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "18pF/50V/C0G "
+    (property "Value" "18pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3853,7 +3853,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "18pF_50V_C0G _0_0"
+    (symbol "18pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3872,7 +3872,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "20pF_50V_C0G "
+  (symbol "20pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3881,7 +3881,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "20pF/50V/C0G "
+    (property "Value" "20pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -3932,7 +3932,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "20pF_50V_C0G _0_0"
+    (symbol "20pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -3951,7 +3951,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22pF_50V_C0G "
+  (symbol "22pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -3960,7 +3960,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22pF/50V/C0G "
+    (property "Value" "22pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4011,7 +4011,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22pF_50V_C0G _0_0"
+    (symbol "22pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4030,7 +4030,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "220nF_50V_X7R "
+  (symbol "220nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4039,7 +4039,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "220nF/50V/X7R "
+    (property "Value" "220nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4090,7 +4090,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "220nF_50V_X7R _0_0"
+    (symbol "220nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4109,7 +4109,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "470nF_50V_X7R "
+  (symbol "470nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4118,7 +4118,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "470nF/50V/X7R "
+    (property "Value" "470nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4169,7 +4169,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "470nF_50V_X7R _0_0"
+    (symbol "470nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4188,7 +4188,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47pF_50V_C0G "
+  (symbol "47pF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4197,7 +4197,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47pF/50V/C0G "
+    (property "Value" "47pF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4248,7 +4248,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47pF_50V_C0G _0_0"
+    (symbol "47pF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4267,7 +4267,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10uF_25V_X5R "
+  (symbol "10uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4276,7 +4276,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10uF/25V/X5R "
+    (property "Value" "10uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4327,7 +4327,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10uF_25V_X5R _0_0"
+    (symbol "10uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4346,7 +4346,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47uF_6.3V_X5R "
+  (symbol "47uF,6.3V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4355,7 +4355,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47uF/6.3V/X5R "
+    (property "Value" "47uF,6.3V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4406,7 +4406,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47uF_6.3V_X5R _0_0"
+    (symbol "47uF,6.3V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4425,7 +4425,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100nF_100V_X7R "
+  (symbol "100nF,100V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4434,7 +4434,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100nF/100V/X7R "
+    (property "Value" "100nF,100V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4485,7 +4485,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100nF_100V_X7R _0_0"
+    (symbol "100nF,100V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4504,7 +4504,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "2.2nF_50V_C0G "
+  (symbol "2.2nF,50V,C0G "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4513,7 +4513,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2.2nF/50V/C0G "
+    (property "Value" "2.2nF,50V,C0G "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4564,7 +4564,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "2.2nF_50V_C0G _0_0"
+    (symbol "2.2nF,50V,C0G _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4583,7 +4583,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1uF_50V_X7R "
+  (symbol "1uF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4592,7 +4592,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1uF/50V/X7R "
+    (property "Value" "1uF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4643,7 +4643,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1uF_50V_X7R _0_0"
+    (symbol "1uF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4662,7 +4662,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "22uF_25V_X5R "
+  (symbol "22uF,25V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4671,7 +4671,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22uF/25V/X5R "
+    (property "Value" "22uF,25V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4722,7 +4722,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "22uF_25V_X5R _0_0"
+    (symbol "22uF,25V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4741,7 +4741,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "1nF_50V_X7R "
+  (symbol "1nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4750,7 +4750,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1nF/50V/X7R "
+    (property "Value" "1nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4801,7 +4801,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "1nF_50V_X7R _0_0"
+    (symbol "1nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4820,7 +4820,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "2.2uF_50V_Y5V "
+  (symbol "2.2uF,50V,Y5V "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4829,7 +4829,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2.2uF/50V/Y5V "
+    (property "Value" "2.2uF,50V,Y5V "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4880,7 +4880,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "2.2uF_50V_Y5V _0_0"
+    (symbol "2.2uF,50V,Y5V _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4899,7 +4899,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "100nF_50V_X7R "
+  (symbol "100nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4908,7 +4908,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100nF/50V/X7R "
+    (property "Value" "100nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -4959,7 +4959,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "100nF_50V_X7R _0_0"
+    (symbol "100nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -4978,7 +4978,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "330pF_50V_X7R "
+  (symbol "330pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -4987,7 +4987,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "330pF/50V/X7R "
+    (property "Value" "330pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5038,7 +5038,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "330pF_50V_X7R _0_0"
+    (symbol "330pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5057,7 +5057,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "47nF_50V_X7R "
+  (symbol "47nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5066,7 +5066,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "47nF/50V/X7R "
+    (property "Value" "47nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5117,7 +5117,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "47nF_50V_X7R _0_0"
+    (symbol "47nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5136,7 +5136,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "220pF_50V_X7R "
+  (symbol "220pF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5145,7 +5145,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "220pF/50V/X7R "
+    (property "Value" "220pF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5196,7 +5196,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "220pF_50V_X7R _0_0"
+    (symbol "220pF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5215,7 +5215,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "3.3nF_50V_X7R "
+  (symbol "3.3nF,50V,X7R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5224,7 +5224,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "3.3nF/50V/X7R "
+    (property "Value" "3.3nF,50V,X7R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5275,7 +5275,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "3.3nF_50V_X7R _0_0"
+    (symbol "3.3nF,50V,X7R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5294,7 +5294,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "10uF_50V_X5R "
+  (symbol "10uF,50V,X5R "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5303,7 +5303,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10uF/50V/X5R "
+    (property "Value" "10uF,50V,X5R "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5354,7 +5354,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "10uF_50V_X5R _0_0"
+    (symbol "10uF,50V,X5R _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5373,7 +5373,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "30pF_50V_NP0 "
+  (symbol "30pF,50V,NP0 "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5382,7 +5382,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "30pF/50V/NP0 "
+    (property "Value" "30pF,50V,NP0 "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5433,7 +5433,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "30pF_50V_NP0 _0_0"
+    (symbol "30pF,50V,NP0 _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5452,7 +5452,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "33pF_50V_NP0 "
+  (symbol "33pF,50V,NP0 "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5461,7 +5461,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "33pF/50V/NP0 "
+    (property "Value" "33pF,50V,NP0 "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5512,7 +5512,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "33pF_50V_NP0 _0_0"
+    (symbol "33pF,50V,NP0 _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5531,7 +5531,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "30pF_50V_NP0 "
+  (symbol "30pF,50V,NP0 "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5540,7 +5540,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "30pF/50V/NP0 "
+    (property "Value" "30pF,50V,NP0 "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5591,7 +5591,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "30pF_50V_NP0 _0_0"
+    (symbol "30pF,50V,NP0 _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))
@@ -5610,7 +5610,7 @@
         (length 2.032)
         (name "~" (effects (font (size 0 0))hide))
         (number "2" (effects (font (size 0 0))hide)))))
-  (symbol "33pF_50V_NP0 "
+  (symbol "33pF,50V,NP0 "
     (in_bom yes)
     (on_board yes)
     (property "Reference" "C"
@@ -5619,7 +5619,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "33pF/50V/NP0 "
+    (property "Value" "33pF,50V,NP0 "
       (id 1)
       (at 1.71 -1.016 0.0)
       (effects
@@ -5670,7 +5670,7 @@
       (at 0.0 0.0 0.0)
       (effects
         (font (size 0 0))hide))
-    (symbol "33pF_50V_NP0 _0_0"
+    (symbol "33pF,50V,NP0 _0_0"
       (polyline
         (pts (xy -1.524 -0.508) (xy 1.524 -0.508))
         (stroke (width 0.3048))

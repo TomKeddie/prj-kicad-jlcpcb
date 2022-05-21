@@ -10,7 +10,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1k/1%"
+    (property "Value" "1k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -86,7 +86,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "300/1%"
+    (property "Value" "300"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -162,7 +162,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "0/1%"
+    (property "Value" "0"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -238,7 +238,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100k/1%"
+    (property "Value" "100k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -314,7 +314,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100/1%"
+    (property "Value" "100"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -390,7 +390,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10k/1%"
+    (property "Value" "10k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -466,7 +466,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10/1%"
+    (property "Value" "10"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -542,7 +542,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "120/1%"
+    (property "Value" "120"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -618,7 +618,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "180/1%"
+    (property "Value" "180"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -694,7 +694,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1M/1%"
+    (property "Value" "1M"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -770,7 +770,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1/1%"
+    (property "Value" "1"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -846,7 +846,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7k/1%"
+    (property "Value" "4.7k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -922,7 +922,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2k/1%"
+    (property "Value" "2k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -998,7 +998,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "20/1%"
+    (property "Value" "20"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1074,7 +1074,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22/1%"
+    (property "Value" "22"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1150,7 +1150,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "750/1%"
+    (property "Value" "750"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1226,7 +1226,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1.2M/1%"
+    (property "Value" "1.2M"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1302,7 +1302,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100m/1%"
+    (property "Value" "100m"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1378,7 +1378,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1k/1%"
+    (property "Value" "1k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1454,7 +1454,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "300/1%"
+    (property "Value" "300"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1530,7 +1530,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "0/1%"
+    (property "Value" "0"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1606,7 +1606,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100k/1%"
+    (property "Value" "100k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1682,7 +1682,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100/1%"
+    (property "Value" "100"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1758,7 +1758,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10k/1%"
+    (property "Value" "10k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1834,7 +1834,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10/1%"
+    (property "Value" "10"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1910,7 +1910,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "120/1%"
+    (property "Value" "120"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -1986,7 +1986,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "180/1%"
+    (property "Value" "180"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2062,7 +2062,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1M/1%"
+    (property "Value" "1M"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2138,7 +2138,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1/1%"
+    (property "Value" "1"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2214,7 +2214,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "4.7k/1%"
+    (property "Value" "4.7k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2290,7 +2290,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2k/1%"
+    (property "Value" "2k"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2366,7 +2366,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "20/1%"
+    (property "Value" "20"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2442,7 +2442,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "22/1%"
+    (property "Value" "22"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2518,7 +2518,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "750/1%"
+    (property "Value" "750"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2594,7 +2594,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1.2M/1%"
+    (property "Value" "1.2M"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2670,7 +2670,7 @@
       (effects
         (font (size 1.27 1.27))
         (justify left)))
-    (property "Value" "100m/1%"
+    (property "Value" "100m"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects

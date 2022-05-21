@@ -28,4 +28,4 @@ EOF
 [ -f build/parts-basic.db ] || cat build/createdb-basic.sql | sqlite3 build/parts-basic.db
 [ -f build/parts.db ] || cat build/createdb.sql | sqlite3 build/parts.db
 python createlib.py
-mv build/*.lib build/*.dcm ../libraries
+mv build/*.kicad_sym ../libraries
